@@ -1,0 +1,337 @@
+\begin{thebibliography}{67}
+\ProvideTextCommand{\guillemotleft}{OT1}{%
+  \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\ll$}}
+\ProvideTextCommand{\guillemotright}{OT1}{%
+  \leavevmode\raise .27ex\hbox{$\scriptscriptstyle\gg$}}
+\newcommand{\enquote}[1]{\guillemotleft#1\guillemotright}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\selectlanguage}[1]{\relax}
+
+\bibitem[{Allan e Philippacopoulos(1999)}]{allan}
+\textsc{Allan, M.~L.} e \textsc{Philippacopoulos, A.~J.} (1999),
+  \emph{Properties and performance of cement-based grouts for geothermal heat
+  pump applications}, Office States Department of Energy, Washington, final
+  report ed.
+
+\bibitem[{Armstead e Schroeder(1983)}]{armstead}
+\textsc{Armstead, H.} e \textsc{Schroeder, C.~H.} (1983), \emph{Geothermal
+  Energy}, Spon Pr, London.
+
+\bibitem[{Banks(2008)}]{banks}
+\textsc{Banks, D.} (2008), \emph{An Introduction of Thermogeology Ground Source
+  Heating and Cooling}, Blackwell Publishing.
+
+\bibitem[{Basta e Minchio(2007)}]{basta}
+\textsc{Basta, S.} e \textsc{Minchio, F.} (2007), \enquote{Geotermia e pompe di
+  calore - Guida pratica agli impianti di climatizzazione}, Stampato in
+  proprio, Verona.
+
+\bibitem[{Begal(1995)}]{begal}
+\textsc{Begal, F.} (1995), \emph{Analisi tecnico-economica di impianti di
+  climatizzazione con accumulo stagionale a terreno}, Tesi di laurea, Facoltà
+  di Ingegneria Gestionale dell'Università di Padova.
+
+\bibitem[{Bondesan \emph{et~al.}(2004)}]{bondesan}
+\textsc{Bondesan, A.}, \textsc{Fontana, A.}, \textsc{Mozzi, P.}  e
+  \textsc{Meneghel, M.} (2004), \emph{Geomorfologia della provincia di Venezia.
+  Note illustrative della carta geomorfologica della provincia di Venezia},
+  Esedra Editrice.
+
+\bibitem[{Boscolo e Mion(2008)}]{arpav}
+\textsc{Boscolo, C.} e \textsc{Mion, F.} (2008), \enquote{Le acque sotterranee
+  della pianura veneta -- I risultati del Progetto SAMPAS}, Rap. tecn., Area
+  Tecnico Scientifica -- Servizio Acque Interne dell'ARPAV del Veneto.
+
+\bibitem[{Brandl(2006)}]{brandl}
+\textsc{Brandl, H.} (2006), \enquote{Energy foundations and other thermo-active
+  ground structures}, \emph{Géotechnique}, vol.~56~(2).
+
+\bibitem[{Busnardo(2006)}]{busnardo}
+\textsc{Busnardo, E.} (2006), \emph{Pompe di calore con sorgente ad acque
+  superficiali o sotterranee: aspetti tecnici, commerciali ed amministrativi},
+  Tesi di dottorato, Università di Padova -- Dipartimento di Tecnica e
+  Gestione dei Sistemi Industriali, relatore prof. R. M. Lazzarin.
+
+\bibitem[{Casale \emph{et~al.}(2009)}]{libro_pdc}
+\textsc{Casale, C.}, \textsc{Colli, G.}, \textsc{Pennati, W.}  e
+  \textsc{Pettorossi, F.} (2009), \enquote{Libro bianco sulle pompe di calore},
+  PDF del Gruppo Italiano Pompe di Calore.
+
+\bibitem[{Cesi(2001)}]{cesi}
+\textsc{Cesi} (2001), \enquote{Applicazioni della tecnologia a pompa di calore
+  nei principali settori industriali}, Rap. tecn., SFR-A1/018331.
+
+\bibitem[{Claesson e Eskilson(1987)}]{claesson}
+\textsc{Claesson, J.} e \textsc{Eskilson, P.} (1987), \emph{Thermal Analysis of
+  Heat Extraction Boreholes}, Tesi di dottorato, Department of Mathematical
+  Physics, University of Lund, Sweden.
+
+\bibitem[{{Da Deppo} \emph{et~al.}(2006)}]{da_deppo_acquedotti}
+\textsc{{Da Deppo}, L.}, \textsc{Datei, C.}, \textsc{Fiorotto, V.}  e
+  \textsc{Salandin, P.} (2006), \emph{Acquedotti}, Libreria Internazionale
+  Cortina, Padova, terza ed.
+
+\bibitem[{Desio(2003)}]{desio}
+\textsc{Desio, A.} (2003), \emph{Geologia applicata all'ingegneria}, Hoepli.
+
+\bibitem[{Drigo(2005)}]{drigo}
+\textsc{Drigo, V.} (2005), \enquote{L'anomalia geotermica nella pianura
+  friulana e veneta, una ricchezza da utilizzare e da conservare}, Rap. tecn.,
+  Collegio degli Ingegneri di Venezia.
+
+\bibitem[{{EED}(2009)}]{eed}
+\textsc{{EED}} (2009), \emph{Earth Energy Designer}, sviluppato dalla Blocon
+  software, con la collaborazione di G. Hellstr\"{o}m, B. Sanner, J. Claesson,
+  P. Eskilson, Sweden, 3.15 ed.
+
+\bibitem[{EGEC(2009)}]{egec_2009}
+\textsc{EGEC} (2009), \enquote{Geothermal Heat pumps - Ground source Heat
+  pumps}, PDF.
+
+\bibitem[{{ENEA}(2003)}]{enea}
+\textsc{{ENEA}} (2003), \enquote{La pompa di calore}, PDF, collana sviluppo
+  sostenibile.
+
+\bibitem[{Eugster(2009)}]{confederazione_svizzera}
+\textsc{Eugster, W.~J.} (2009), \emph{Exploitation de la chaleur tirée du sol
+  et du sous-sol}, Office fédéral de l'environnement OFEV.
+
+\bibitem[{EurObserv'ER(2009)}]{hp_barometer}
+\textsc{EurObserv'ER} (2009), \enquote{Heat pump barometer}, L'Observatoire des
+  energies renouvelables.
+
+\bibitem[{Fanelli e Dickson(2004)}]{fanelli}
+\textsc{Fanelli, M.} e \textsc{Dickson, M.~H.} (2004), \enquote{Geologia e\dots
+  Geotermia}, CNR - Istituto di Geoscienze e Georisorse, Area CNR - Pisa.
+
+\bibitem[{Felderer(2006)}]{felderer}
+\textsc{Felderer, G.} (2006), \enquote{La geotermia nell'Altro Adige}, in
+  \enquote{Geotermia: applicazioni a bassa temperatura}, Fiera di Vicenza.
+
+\bibitem[{Ferguson e Woodbury(2004)}]{ferguson}
+\textsc{Ferguson, G.} e \textsc{Woodbury, A.} (2004), \enquote{Subsurface heat
+  flow in an urban environment}, \emph{Journal of geophysical research}, vol.
+  109.
+
+\bibitem[{Fern\'{a}ndez(2009)}]{egec_bilbao}
+\textsc{Fern\'{a}ndez, A.} (2009), \enquote{Geothermal Energy in Europe, today
+  and in future}, in \enquote{European Future Energy Forum 09}, EGEC, PDF,
+  Bilbao.
+
+\bibitem[{Franchetto(2010)}]{franchetto}
+\textsc{Franchetto, F.} (2010), \enquote{Impianti geotermici, ecco il decreto
+  di riassetto normativo}, \emph{Nextville.it -- Energie rinnovabili ed
+  efficienza energetica}.
+
+\bibitem[{Guadagni \emph{et~al.}(2003)}]{prontuario_ing}
+\textsc{Guadagni, A.} e \textsc{others} (2003), \emph{Prontuario
+  dell'Ingegnere}, Hoepli.
+
+\bibitem[{GVP(2006)}]{gvp}
+\textsc{GVP} (2006), Hosted by the Global Volcanism Program of the Smithsonian
+  Institution in Washington -- DC.
+
+\bibitem[{Heinonen \emph{et~al.}(1996)}]{heinonen}
+\textsc{Heinonen, E.~W.}, \textsc{Tapscott, R.~E.}, \textsc{Wildin, M.~W.}  e
+  \textsc{Beall, A.~N.} (1996), \enquote{Assessment of anti-freeze solutions
+  for ground-source heat pump systems}, Rap. tecn., New Mexico Engineering
+  Research Institute.
+
+\bibitem[{Hochstein(1990)}]{hochstein}
+\textsc{Hochstein, M.~P.} (1990), \enquote{Classification and assessment of
+  geothermal resources}, in \textsc{Unitar}, curatore, \enquote{Small
+  Geothermal Resources: A Guide to Development and Utilization}, New York.
+
+\bibitem[{{Il Meteo.it}(2009)}]{portale_meteo}
+\textsc{{Il Meteo.it}} (2009), \enquote{Clima Rovigo - Medie climatiche}, .
+
+\bibitem[{Ingersoll \emph{et~al.}(1948)Ingersoll, Zobel e
+  Ingersoll}]{ingersoll}
+\textsc{Ingersoll, L.~R.}, \textsc{Zobel, O.~J.}  e \textsc{Ingersoll, A.~C.}
+  (1948), \emph{Heat Conduction with Engineering and Geological Application},
+  McGraw Hill, New York.
+
+\bibitem[{Lienau(1998)}]{lienau}
+\textsc{Lienau, P.} (1998), \emph{Geothermal Direct Use Engineering and Design
+  Guidebook}, Geo-Heat Center, USA, 3 ed.
+
+\bibitem[{Linacre e Geerts(1997)}]{linacre}
+\textsc{Linacre, E.} e \textsc{Geerts, B.} (1997), \emph{Climates and Weather
+  Explained}, Routledge.
+
+\bibitem[{Lindal(1973)}]{lindal}
+\textsc{Lindal, B.} (1973), \enquote{Industrial and other applications of
+  geothermal energy}, in \enquote{Geothermal Energy}, UNESCO, Paris.
+
+\bibitem[{Lubimova(1968)}]{lubimova}
+\textsc{Lubimova, E.~A.} (1968), \enquote{Thermal history of the Earth}, in
+  \enquote{The Earth's Crust and Upper Mantle}, American Geophysical Union.
+
+\bibitem[{Maritan e Panizzolo(2008)}]{maritan}
+\textsc{Maritan, D.} e \textsc{Panizzolo, R.} (2008), \enquote{Ground Source
+  Heat Pumps Applications in Italy}, in \enquote{Thirty-Third Workshop on
+  Geothermal Reservoir Engineering}, Stanford University, California.
+
+\bibitem[{Mehnert(2004)}]{illinois_survey}
+\textsc{Mehnert, E.} (2004), \emph{The Environmental Effects of Ground-Source
+  Heat Pumps -- A Preliminary Overview}, Illinois State Geological Survey,
+  Washington.
+
+\bibitem[{Minchio(2009)}]{energheiamagazine}
+\textsc{Minchio, F.} (2009), \enquote{Veneto tra sonde geotermiche e
+  autorizzazioni}, \emph{Energheia Magazine}.
+
+\bibitem[{Misstear \emph{et~al.}(2006)Misstear, Banks e Clark}]{misstear}
+\textsc{Misstear, B.}, \textsc{Banks, D.}  e \textsc{Clark, L.} (2006),
+  \emph{Water Wells and Boreholes}, Wiley, Chichester.
+
+\bibitem[{{National Renewable Energy Laboratory}(2009)}]{marketusa}
+\textsc{{National Renewable Energy Laboratory}} (2009), \enquote{2008
+  Geothermal Technologies market report}, Rap. tecn., U.S. Department of
+  Energy.
+
+\bibitem[{Noce(2009)}]{noce}
+\textsc{Noce, G.} (2009), \enquote{Test e collaudi di impianti geotermici a
+  pompa di calore}, \emph{Strade \& Autostrade}, vol.~2.
+
+\bibitem[{Patassini \emph{et~al.}(2008)Patassini, Musco e Picchio}]{ptcp}
+\textsc{Patassini, D.}, \textsc{Musco, F.}  e \textsc{Picchio, S.} (2008),
+  \enquote{Relazione Ambientale al Documento Preliminare del PTCP della
+  Provincia di Rovigo}, Rap. tecn., Provincia di Rovigo e Università IUAV di
+  Venezia -- Dipartimento di Pianificazione.
+
+\bibitem[{Patassini \emph{et~al.}(2009)}]{vas}
+\textsc{Patassini, D.}, \textsc{Musco, F.}, \textsc{Picchio, S.},
+  \textsc{Cicolecchia, M.}, \textsc{Ferro, D.}  e \textsc{Marotta, L.} (2009),
+  \enquote{Valutazione Ambientale Strategica (V.A.S.) del Piano Territoriale di
+  Coordinamento Provinciale (P.T.C.P.): Rapporto Ambientale}, Rap. tecn.,
+  Provincia di Rovigo -- Area Territorio e Trasporti, Università IUAV di
+  Venezia -- Dipartimento di Pianificazione.
+
+\bibitem[{Pollack \emph{et~al.}(1993)Pollack, Hurter e Johnson}]{pollack}
+\textsc{Pollack, H.~N.}, \textsc{Hurter, S.~J.}  e \textsc{Johnson, J.~R.}
+  (1993), \enquote{Heat flow from the Earth's interior: Analysis of the global
+  data set}, \emph{Geophys}, ~(31).
+
+\bibitem[{Preene e Powrie(2009)}]{preene}
+\textsc{Preene, M.} e \textsc{Powrie, W.} (2009), \enquote{Ground energy
+  systems: from analysis to geotechnical design}, \emph{Géotechnique},
+  vol.~59~(3).
+
+\bibitem[{Rafferty(2001)}]{rafferty}
+\textsc{Rafferty, K.} (2001), \enquote{Design aspects of commercial open-loop
+  heat pump systems}, Rap. tecn., Geo-Heat Center bulletin.
+
+\bibitem[{Rossi(2008)}]{anipa}
+\textsc{Rossi, C.} (2008), \enquote{Linee guida per la disciplina relativa allo
+  sfruttamento dell'energia con sonde geotermiche}, in \enquote{Geotermia:
+  progettazione e disciplina tecnica}, Associazione Nazionale di Idrogeologia e
+  Pozzi Acqua.
+
+\bibitem[{Rybach(2003)}]{rybach}
+\textsc{Rybach, L.} (2003), \enquote{Regulatory framework for geothermal in
+  Europe -- with special reference to Germany, France, Hungary, Romania, and
+  Switzerland}, in \enquote{Geothermal training programme}, .
+
+\bibitem[{Sanner(2001)}]{history_gshp}
+\textsc{Sanner, B.} (2001), \enquote{Some history of shallow geothermal energy
+  use}, in \enquote{UNESCO/IGA International Summer School on Direct
+  Application of Geothermal Energy/International Geothermal Days}, Germany.
+
+\bibitem[{Sanner(2008)}]{sanner_guidelines}
+\textsc{Sanner, B.} (2008), \enquote{Guidelines, standars, certification and
+  legal permits for ground source heat pumps in the european union}, in
+  \enquote{9\ap{th} International IEA Heat Pump Conference}, .
+
+\bibitem[{Sanner(2009)}]{sanner}
+\textsc{Sanner, B.} (2009), \enquote{Development Of Geothermal Heat Pumps}, in
+  \enquote{Session VI, Geothermal Heat Pumps. A prospective direction for
+  development in central european region}, International Geothermal Days,
+  conference \& summer school, Slovakia.
+
+\bibitem[{Sanner \emph{et~al.}(2009)}]{geotrainet}
+\textsc{Sanner, B.}, \textsc{Dumas, P.}, \textsc{Fernandez, I.}  e
+  \textsc{Regueiro, M.} (2009), \enquote{Geotrainet -- A new european
+  initittive for training and education of planners, drillers and installers of
+  geothermal heat pumps}, in \enquote{11\ap{th} Effstock -- Thermal Energy
+  Storage for Energy Efficiency and Sustainability}, Svezia.
+
+\bibitem[{Savoca(2008)}]{savoca}
+\textsc{Savoca, D.} (2008), \enquote{Le prospettive di sviluppo delle pompe di
+  calore geotermiche in Lombardia}, in \enquote{Convegno, Le pompe di calore
+  geotermiche: i vincoli e gli incentivi per lo sviluppo}, Milano.
+
+\bibitem[{Scagliarini(2005)}]{scagliarini}
+\textsc{Scagliarini, R.} (2005), \enquote{E nel Delta del Po fanno
+  trivellazioni illegali}, \emph{Corriere Economia}.
+
+\bibitem[{Skarphagen(2006)}]{skarphagen}
+\textsc{Skarphagen, H.} (2006), \enquote{Ground source heat -- heat exchange
+  with the ground: in Norwegian}, modulo di elearning sviluppato per
+  l'Università di Oslo.
+
+\bibitem[{Stacey e Loper(1988)}]{stacey}
+\textsc{Stacey, F.~D.} e \textsc{Loper, D.~E.} (1988), \enquote{Thermal history
+  of the Earth: a corollary concerning non-linear mantle rheology},
+  \emph{Physisc Earth Planet International}, ~(53).
+
+\bibitem[{Tinti(2009)}]{tinti}
+\textsc{Tinti, F.} (2009), \enquote{Introduzione alla geotermia}, in
+  \enquote{Incontro con le aziende: Standard di qualità nella progettazione e
+  realizzazione degli impianti geotermici a sonde verticali}, Dipartimento di
+  Ingegneria Chimica, Mineraria e delle Tecnologie Ambientali dell'Università
+  di Bologna, Parco scientifico tecnologico di Venezia VEGA.
+
+\bibitem[{UGI(2007)}]{sviluppo_geotermia}
+\textsc{UGI} (2007), \enquote{La Geotermia ieri, oggi, domani}, Numero Speciale
+  del Notiziario UGI, Edizioni ETS.
+
+\bibitem[{{UNI 10349}(1994)}]{uni_10349}
+\textsc{{UNI 10349}} (1994), \enquote{Riscaldamento e raffrescamento degli
+  Edifici - Dati Climatici}, Ente Nazionale Italiano di Unificazione.
+
+\bibitem[{{UNI EN 15450}(2008)}]{uni_15450}
+\textsc{{UNI EN 15450}} (2008), \enquote{Progettazione degli impianti di
+  riscaldamento a pompa di calore}, Ente Nazionale Italiano di Unificazione.
+
+\bibitem[{{UNI EN 378-1}(2008)}]{uni_378}
+\textsc{{UNI EN 378-1}} (2008), \enquote{Impianti di refrigerazione e pompe di
+  calore -- Requisiti di sicurezza e ambientali -- Parte 1: Requisiti di base,
+  definizioni, classificazione e criteri di selezione}, Ente Nazionale Italiano
+  di Unificazione.
+
+\bibitem[{VDI(2000)}]{vdi_blatt1}
+\textsc{VDI} (2000), \enquote{VDI 4640 Blatt 1, Thermal use of the underground
+  -- Fundamentals, approvals, environmental aspects}, Rap. tecn., Verein
+  Deutscher Ingenieure, D\"{u}sseldorf.
+
+\bibitem[{VDI(2001{\natexlab{a}})}]{vdi_blatt2}
+\textsc{VDI} (2001{\natexlab{a}}), \enquote{VDI 4640 Blatt 2, Thermal use of
+  the underground -- Ground source heat pump system}, Rap. tecn., Verein
+  Deutscher Ingenieure, D\"{u}sseldorf.
+
+\bibitem[{VDI(2001{\natexlab{b}})}]{vdi_blatt3}
+\textsc{VDI} (2001{\natexlab{b}}), \enquote{VDI 4640 Blatt 3, Utilization of
+  the subsurface for thermal purposes: Underground thermal energy storage},
+  Rap. tecn., Verein Deutscher Ingenieure, D\"{u}sseldorf.
+
+\bibitem[{Younger(2006)}]{younger}
+\textsc{Younger, P.~L.} (2006), \enquote{Potential pitfalls for water resources
+  of unregulated development of ground-source heat resources}, in
+  \enquote{Annual Conference of the Chartered Institution of Water --
+  Environmental Management}, .
+
+\bibitem[{Zarrella(2009{\natexlab{a}})}]{zarrella}
+\textsc{Zarrella, A.} (2009{\natexlab{a}}), \enquote{Le pompe di calore
+  accoppiate al terreno: aspetti termodinamici e funzionali}, in
+  \enquote{Incontro con le aziende: Impianti geotermici a bassa entalpia e
+  tecniche costruttive}, Dipartimento di Fisica Tecnica dell'Università di
+  Padova, Collegio degli Ingegneri della provincia di Padova.
+
+\bibitem[{Zarrella(2009{\natexlab{b}})}]{zarrella_relazione}
+\textsc{Zarrella, A.} (2009{\natexlab{b}}), \enquote{L'uso del terreno come
+  sorgente termica}, Dipartimento di Fisica Tecnica dell'Università di Padova.
+
+\end{thebibliography}
