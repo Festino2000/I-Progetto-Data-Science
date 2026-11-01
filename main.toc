@@ -19,30 +19,39 @@
 \contentsline {section}{\numberline {1.7}Relazione tecnica finale}{12}{section.1.7}%
 \contentsline {subsection}{\numberline {1.7.1}Per sistemi open loop}{12}{subsection.1.7.1}%
 \contentsline {subsection}{\numberline {1.7.2}Per sistemi closed loop}{12}{subsection.1.7.2}%
-\contentsline {chapter}{\numberline {2}Proposta per un iter autorizzativo}{13}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Competenze dell'ente di controllo}{13}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Pianificazione territoriale}{14}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Disciplinare}{14}{subsection.2.1.2}%
-\contentsline {section}{\numberline {2.2}Competenze del committente}{14}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Domanda e relazione tecnica preliminare}{16}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Per sistemi open loop}{16}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Per sistemi closed loop}{17}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Compiti della direzione lavori}{17}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2.4}Relazione tecnica finale}{18}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Per sistemi open loop}{18}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Per sistemi closed loop}{18}{subsection.2.4.2}%
-\contentsline {chapter}{\numberline {3}Proposta per un iter autorizzativo}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Competenze dell'ente di controllo}{19}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Pianificazione territoriale}{20}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Disciplinare}{20}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Competenze del committente}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Domanda e relazione tecnica preliminare}{22}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Per sistemi open loop}{22}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Per sistemi closed loop}{23}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Compiti della direzione lavori}{23}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Relazione tecnica finale}{24}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Per sistemi open loop}{24}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Per sistemi closed loop}{24}{subsection.3.4.2}%
-\contentsline {chapter}{Bibliografia}{25}{section*.15}%
-\contentsline {chapter}{Sitografia}{30}{chapter*.17}%
-\contentsline {chapter}{Ringraziamenti}{32}{chapter*.18}%
+\contentsline {chapter}{\numberline {2}Minors' Lifestyle Analysis: clustering}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduzione e Obiettivo del Clustering}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Caricamento del Dataset e Selezione Iniziale delle Feature}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Analisi Esplorativa dei Dati (EDA)}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Interpretazione delle Distribuzioni Univariate}{15}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Analisi Bivariata: Esposizione a Instagram e Indicatori di Salute Mentale}{15}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Analisi delle Relazioni tra le Variabili e Scrematura della Multicollinearità}{16}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Standardizzazione (\texttt {StandardScaler}) e Scelta del Valore Ottimo per la \texttt {PCA}}{18}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Standardizzazione Z-Score e Verifica di Non-Falsatura della PCA}{18}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Interpretazione Semantica delle 5 Componenti Principali (\texttt {PC1}--\texttt {PC5})}{20}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Algoritmo 1 --- Clustering Partizionale con \texttt {K-Means}}{21}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Ricerca del Numero Ottimo di Cluster ($k$)}{21}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Visualizzazione Geometrica dei Cluster K-Means ($k=3$): 2D PCA, 3D PCA e Proiezione Supervisionata LDA}{21}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Profilazione Completa dei Cluster K-Means ($k=3$): Heatmap, Radar Chart e Identikit delle User Personas}{22}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Approfondimento a $k = 4$ Cluster e Validazione Incrociata con le Classi di Rischio Stress}{23}{subsection.2.6.4}%
+\contentsline {section}{\numberline {2.7}Algoritmo 2 --- Clustering Basato su Densità con \texttt {DBSCAN}}{23}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Metodologia, $k$-Distance Plot e Grid Search Bivariata (\texttt {eps} $\times $ \texttt {min\_samples})}{23}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}Visualizzazione Geometrica di DBSCAN e Caratterizzazione degli Outlier (\texttt {-1})}{24}{subsection.2.7.2}%
+\contentsline {section}{\numberline {2.8}Algoritmo 3 --- Clustering Gerarchico a Densità Variabile con \texttt {HDBSCAN} e Confronto Finale}{25}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Applicazione di HDBSCAN: Metodo \texttt {EOM} (\emph {Excess of Mass}) contro Metodo \texttt {Leaf}}{25}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Discussione Critica e Confronto Finale tra i 3 Algoritmi}{25}{subsection.2.8.2}%
+\contentsline {chapter}{\numberline {3}Proposta per un iter autorizzativo}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Competenze dell'ente di controllo}{27}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Pianificazione territoriale}{28}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Disciplinare}{28}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Competenze del committente}{28}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Domanda e relazione tecnica preliminare}{30}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Per sistemi open loop}{30}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Per sistemi closed loop}{31}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Compiti della direzione lavori}{31}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Relazione tecnica finale}{32}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Per sistemi open loop}{32}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Per sistemi closed loop}{32}{subsection.3.4.2}%
+\contentsline {chapter}{Bibliografia}{33}{section*.37}%
+\contentsline {chapter}{Sitografia}{38}{chapter*.39}%
+\contentsline {chapter}{Ringraziamenti}{40}{chapter*.40}%
