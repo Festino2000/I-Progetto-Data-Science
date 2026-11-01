@@ -1,13 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.1)  1 NOV 2026 16:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.1)  1 NOV 2026 18:38
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/fraiu/Downloads/universta/Universit√†_magistrale/anno_2/data scienc
-e/I-Progetto-Data-Science/main.tex"
-
-(c:/Users/fraiu/Downloads/universta/Universit√†_magistrale/anno_2/data science/
-I-Progetto-Data-Science/main.tex
+**./main.tex
+(main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -1369,7 +1365,7 @@ Package hyperref Info: Link coloring ON on input line 51.
 \openout2 = `frontmatter/frontispiece.aux'.
 
  (frontmatter/frontispiece.tex
-<frontmatter/images/logo.png, id=222, 332.24126pt x 332.24126pt>
+<frontmatter/images/logo.png, id=238, 332.24126pt x 332.24126pt>
 File: frontmatter/images/logo.png Graphic file (type png)
 <use frontmatter/images/logo.png>
 Package pdftex.def Info: frontmatter/images/logo.png  used on input line 25.
@@ -1488,8 +1484,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 (main.toc
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 29
-.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 7.
+
 
 (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -1504,7 +1500,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 ]
-Overfull \hbox (12.63446pt too wide) in paragraph at lines 38--38
+Overfull \hbox (12.63446pt too wide) in paragraph at lines 42--42
  [][] [][][]\T1/ppl/m/n/10.95 (-20) Metodologia, $\OML/zplm/m/it/10.95 k$\T1/pp
 l/m/n/10.95 (-20) -Distance Plot e Grid Search Bi-va-ria-ta (\T1/pcr/m/n/10.95 
 eps $\OMS/zplm/m/n/10.95 ^^B$ \T1/pcr/m/n/10.95 min_samples\T1/ppl/m/n/10.95 (-
@@ -1523,8 +1519,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3] (main.lof
-Overfull \hbox (14.00761pt too wide) in paragraph at lines 20--20
+[3] (main.lof [4
+
+]
+Overfull \hbox (14.00761pt too wide) in paragraph at lines 24--24
  \T1/ppl/m/n/10.95 (-20) riz-za-zio-ne de-gli Ou-tlier (\T1/pcr/m/n/10.95 -1\T1
 /ppl/m/n/10.95 (-20) ) tra-mi-te di-stri-bu-zio-ne di \T1/pcr/m/n/10.95 posts_c
 reated_per_week\T1/ppl/m/n/10.95 (-20) .[][] [][]  
@@ -1534,9 +1532,7 @@ reated_per_week\T1/ppl/m/n/10.95 (-20) .[][] [][]
 \tf@lof=\write11
 \openout11 = `main.lof'.
 
- [4
 
-]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1545,14 +1541,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5] (main.lot
-Overfull \hbox (76.4437pt too wide) in paragraph at lines 17--17
+Overfull \hbox (49.25746pt too wide) in paragraph at lines 7--7
+ \T1/pcr/m/n/10.95 instagram_usage_lifestyle.csv \T1/ppl/m/n/10.95 (-20) (Raw) 
+e \T1/pcr/m/n/10.95 instagram_users_lifestyle.csv 
+ []
+
+
+Overfull \hbox (76.4437pt too wide) in paragraph at lines 21--21
  [][] [][][]\T1/ppl/m/n/10.95 (-20) Profilazione di HDB-SCAN con me-to-do \T1/p
 cr/m/n/10.95 EOM \T1/ppl/m/n/10.95 (-20) (\T1/pcr/m/n/10.95 min_cluster_size=10
 0, min_samples=15\T1/ppl/m/n/10.95 (-20) , 
  []
 
 
-Overfull \hbox (42.95671pt too wide) in paragraph at lines 17--17
+Overfull \hbox (42.95671pt too wide) in paragraph at lines 21--21
  \T1/ppl/m/n/10.95 (-20) Si-lhouet-te $\OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95
  (-20) 0, 6061$\T1/ppl/m/n/10.95 (-20) ) e me-to-do \T1/pcr/m/n/10.95 Leaf \T1/
 ppl/m/n/10.95 (-20) (\T1/pcr/m/n/10.95 min_cluster_size=200, min_samples=10\T1/
@@ -1566,25 +1568,6 @@ ppl/m/n/10.95 (-20) ,
  [6
 
 ]
-\openout2 = `introduction/introduction.aux'.
-
- (introduction/introduction.tex
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.18 
-      [1
-
-
-
-]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 2
-5.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-))
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1592,14 +1575,277 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2]
-\openout2 = `classificazione/classificazione.aux'.
+[7]
+\openout2 = `introduction/introduction.aux'.
 
- (classificazione/classificazione.tex
+ (introduction/introduction.tex
 Capitolo 1.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 23.63593pt on input line 1.
-[3
+
+Overfull \hbox (20.16672pt too wide) in paragraph at lines 13--14
+\T1/ppl/m/it/10.95 (-20) Qua-li-ty & Clea-ning \T1/ppl/m/n/10.95 (-20) (con-fro
+n-tan-do la ver-sio-ne grez-za \T1/pcr/m/n/10.95 instagram_usage_lifestyle.csv
+ []
+
+<introduction/images/fig_desc01_demografia_globale.png, id=480, 1293.03075pt x 
+390.258pt>
+File: introduction/images/fig_desc01_demografia_globale.png Graphic file (type 
+png)
+<use introduction/images/fig_desc01_demografia_globale.png>
+Package pdftex.def Info: introduction/images/fig_desc01_demografia_globale.png 
+ used on input line 20.
+(pdftex.def)             Requested size: 441.01775pt x 133.10875pt.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 21.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 21.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 21.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 21.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 21.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 21.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 
+      [1
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 3
+4.
+
+(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+Overfull \hbox (26.63113pt too wide) in paragraph at lines 35--36
+\T1/ppl/m/n/10.95 (-20) me-dia del-le ses-sio-ni e pun-teg-gio com-po-si-to di 
+coin-vol-gi-men-to (\T1/pcr/m/n/10.95 user_engagement_score\T1/ppl/m/n/10.95 (-
+20) ); 
+ []
+
+
+Overfull \hbox (35.65675pt too wide) in paragraph at lines 36--37
+\T1/ppl/m/n/10.95 (-20) men-ta-ri e di sti-le di vi-ta, pre-fe-ren-ze sui con-t
+e-nu-ti e da-ta di ul-ti-mo ac-ces-so (\T1/pcr/m/n/10.95 last_login_date\T1/ppl
+/m/n/10.95 (-20) ); 
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 80--80
+[]|\T1/ppl/m/n/10.95 (+20) Genere (\T1/ppl/m/it/10.95 (+20) Fe-ma-le $\OT1/ppl/
+m/n/10.95 (+20) 48%$\T1/ppl/m/n/10.95 (+20) , \T1/ppl/m/it/10.95 (+20) Ma-le $\
+OT1/ppl/m/n/10.95 (+20) 48%$\T1/ppl/m/n/10.95 (+20) , \T1/ppl/m/it/10.95 (+20) 
+Non-
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 80--80
+[]|\T1/ppl/m/n/10.95 (+20) Fascia di red-di-to (\T1/ppl/m/it/10.95 (+20) Low, L
+ower-middle,
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 80--80
+[]|\T1/ppl/m/n/10.95 (+20) Qualit‡ del-l'a-li-men-ta-zio-ne (\T1/ppl/m/it/10.95
+ (+20) Ve-ry poor,
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 80--80
+[]|\T1/pcr/m/n/10.95 int64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 9
+0 [] 180$ \T1/ppl/m/n/10.95 (+20) mm-
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 80--80
+[]|\T1/pcr/m/n/10.95 int64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 6
+0 [] 120$ \T1/ppl/m/n/10.95 (+20) mm-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2 <./introduction/images/fig_desc01_demografia_globale.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\T1/pcr/m/n/10.95 float64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20)
+ 5, 0 [] 50, 0$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\T1/ppl/m/n/10.95 (+20) Data del-l'ul-ti-mo ac-ces-so ef-fet-tua-to
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 129--129
+[]|\T1/ppl/m/n/10.95 (+20) Tema pre-fe-ri-to (\T1/ppl/m/it/10.95 (+20) Fit-ness
+, Tech, Fa-shion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\T1/ppl/m/n/10.95 (+20) Nome del-l'ap-pli-ca-zio-ne mo-ni-to-ra-ta
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4]
+<introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png, id=507, 1
+293.633pt x 375.804pt>
+File: introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png Graph
+ic file (type png)
+<use introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png>
+Package pdftex.def Info: introduction/images/fig_desc02_confronto_pulizia_usage
+_vs_users.png  used on input line 147.
+(pdftex.def)             Requested size: 441.01775pt x 128.11572pt.
+
+Underfull \hbox (badness 4378) in paragraph at lines 154--154
+[][]|\T1/ppl/m/n/10 (+20) Rie-pi-lo-go del-le 6 co-lon-ne sot-to-po-ste a cor-r
+e-zio-ne di in-te-gri-t‡ se-man-ti-ca tra
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 174--174
+[]|\T1/ppl/m/n/10.95 (+20) Minorenni di 13--17 an-ni
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 174--174
+\T1/ppl/m/n/10.95 (+20) clas-si-fi-ca-ti co-me \T1/ppl/m/it/10.95 (+20) Full-ti
+me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
+\T1/ppl/m/it/10.95 (+20) em-ployed \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95
+ (+20) 44, 9%$\T1/ppl/m/n/10.95 (+20) ), \T1/ppl/m/it/10.95 (+20) Re-ti-red
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 174--174
+\T1/ppl/m/n/10.95 (+20) (pen-sio-na-ti, $\OT1/ppl/m/n/10.95 (+20) 4, 9%$\T1/ppl
+/m/n/10.95 (+20) ) o \T1/ppl/m/it/10.95 (+20) Self-
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 174--174
+[]|\T1/ppl/m/n/10.95 (+20) Ore la-vo-ra-ti-ve az-ze-ra-te ($\OT1/ppl/m/n/10.95 
+(+20) 0, 0$
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 174--174
+[]|\T1/ppl/m/n/10.95 (+20) Adolescenti di 13--17 an-
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 174--174
+\T1/ppl/m/n/10.95 (+20) ni re-gi-stra-ti co-me \T1/ppl/m/it/10.95 (+20) Mar-rie
+d
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 174--174
+\T1/ppl/m/n/10.95 (+20) per il $\OT1/ppl/m/n/10.95 (+20) 100%$ \T1/ppl/m/n/10.9
+5 (+20) dei mi-no-ren-ni
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 174--174
+\T1/ppl/m/n/10.95 (+20) l'e-t‡ sco-la-re ef-fet-ti-va (\T1/pcr/m/n/10.95 High
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5 <./introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png>]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 178.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 178.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 178.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 178.
+
+
+Overfull \hbox (52.69937pt too wide) in paragraph at lines 186--187
+\T1/ppl/m/n/10.95 (-20) stan-te \T1/ppl/m/it/10.95 (-20) ``In-sta-gram''\T1/ppl
+/m/n/10.95 (-20) ), \T1/pcr/m/n/10.95 last_login_date\T1/ppl/m/n/10.95 (-20) , 
+\T1/pcr/m/n/10.95 subscription_status\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.9
+5 uses_premium_features\T1/ppl/m/n/10.95 (-20) ,
+ []
+
+
+Overfull \hbox (37.38861pt too wide) in paragraph at lines 186--187
+\T1/pcr/m/n/10.95 content_type_preference\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/
+10.95 preferred_content_theme\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 privac
+y_setting_level\T1/ppl/m/n/10.95 (-20) ,
+ []
+
+<introduction/images/fig_desc03_panoramica_variabili_lifestyle.png, id=516, 129
+3.633pt x 375.804pt>
+File: introduction/images/fig_desc03_panoramica_variabili_lifestyle.png Graphic
+ file (type png)
+<use introduction/images/fig_desc03_panoramica_variabili_lifestyle.png>
+Package pdftex.def Info: introduction/images/fig_desc03_panoramica_variabili_li
+festyle.png  used on input line 192.
+(pdftex.def)             Requested size: 441.01775pt x 128.11572pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7 <./introduction/images/fig_desc03_panoramica_variabili_lifestyle.png>]
+\openout2 = `classificazione/classificazione.aux'.
+
+
+(classificazione/classificazione.tex
+Capitolo 2.
+[8
 
 
 
@@ -1618,7 +1864,7 @@ i mag-gio-ri-ta-rie del-la va-ria-bi-le tar-get \T1/ppl/m/it/10.95 (-20) diet_q
 uality
  []
 
-<classificazione/images/distribuzione_diet_quality.png, id=441, 578.16pt x 433.
+<classificazione/images/distribuzione_diet_quality.png, id=535, 578.16pt x 433.
 62pt>
 File: classificazione/images/distribuzione_diet_quality.png Graphic file (type 
 png)
@@ -1626,10 +1872,6 @@ png)
 Package pdftex.def Info: classificazione/images/distribuzione_diet_quality.png 
  used on input line 43.
 (pdftex.def)             Requested size: 352.81554pt x 264.60706pt.
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 44.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 44.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1637,8 +1879,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4]
-<classificazione/images/distribuzione_diet_quality_bilanciato.png, id=448, 578.
+[9]
+<classificazione/images/distribuzione_diet_quality_bilanciato.png, id=541, 578.
 16pt x 433.62pt>
 File: classificazione/images/distribuzione_diet_quality_bilanciato.png Graphic 
 file (type png)
@@ -1654,8 +1896,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5 <./classificazione/images/distribuzione_diet_quality.png>]
-<classificazione/images/matrice_correlazione_bilanciato.png, id=457, 1110.0672p
+[10 <./classificazione/images/distribuzione_diet_quality.png>]
+<classificazione/images/matrice_correlazione_bilanciato.png, id=549, 1110.0672p
 t x 543.4704pt>
 File: classificazione/images/matrice_correlazione_bilanciato.png Graphic file (
 type png)
@@ -1671,61 +1913,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6 <./classificazione/images/distribuzione_diet_quality_bilanciato.png> <./clas
-sificazione/images/matrice_correlazione_bilanciato.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[7]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[8]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[9]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 173.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 173.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 173.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 173.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 173.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 173.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[10]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[11])
+[11 <./classificazione/images/distribuzione_diet_quality_bilanciato.png> <./cla
+ssificazione/images/matrice_correlazione_bilanciato.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1734,25 +1923,69 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [12]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 173.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 173.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 173.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 173.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 173.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 173.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17]
 \openout2 = `clustering/clustering.aux'.
 
  (clustering/clustering.tex
-Capitolo 2.
-[13
+Capitolo 3.
+[18
 
 
 
 
 ]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 30.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 30.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 30.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 30.
-
 Overfull \hbox (81.18314pt too wide) in paragraph at lines 64--65
 []\T1/ppl/b/n/10.95 (-20) Sessioni gior-na-lie-re (\T1/pcr/b/n/10.95 sessions_p
 er_day\T1/ppl/b/n/10.95 (-20) ) e Du-ra-ta me-dia (\T1/pcr/b/n/10.95 average_se
@@ -1766,7 +1999,7 @@ d_stress_score \T1/ppl/b/n/10.95 (-20) e \T1/pcr/b/n/10.95 self_reported_happin
 ess\T1/ppl/b/n/10.95 (-20) ):
  []
 
-<clustering/images/fig01_eda_univariata.png, id=512, 1148.49075pt x 666.69075pt
+<clustering/images/fig01_eda_univariata.png, id=604, 1148.49075pt x 666.69075pt
 >
 File: clustering/images/fig01_eda_univariata.png Graphic file (type png)
 <use clustering/images/fig01_eda_univariata.png>
@@ -1780,14 +2013,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[14]
+[19]
 Overfull \hbox (40.33125pt too wide) in paragraph at lines 89--90
 []\T1/ppl/b/n/10.95 (-20) Asimmetria po-si-ti-va per Ses-sio-ni e Po-st: \T1/pc
 r/m/n/10.95 sessions_per_day \T1/ppl/m/n/10.95 (-20) e \T1/pcr/m/n/10.95 posts_
 created_per_week
  []
 
-<clustering/images/fig02_eda_bivariata_hexbin.png, id=518, 1293.633pt x 390.258
+<clustering/images/fig02_eda_bivariata_hexbin.png, id=610, 1293.633pt x 390.258
 pt>
 File: clustering/images/fig02_eda_bivariata_hexbin.png Graphic file (type png)
 <use clustering/images/fig02_eda_bivariata_hexbin.png>
@@ -1801,8 +2034,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[15 <./clustering/images/fig01_eda_univariata.png>]
-<clustering/images/fig03_heatmap_correlazione_19_feature.png, id=527, 944.93025
+[20 <./clustering/images/fig01_eda_univariata.png>]
+<clustering/images/fig03_heatmap_correlazione_19_feature.png, id=619, 944.93025
 pt x 714.87074pt>
 File: clustering/images/fig03_heatmap_correlazione_19_feature.png Graphic file 
 (type png)
@@ -1818,7 +2051,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[16 <./clustering/images/fig02_eda_bivariata_hexbin.png>]
+[21 <./clustering/images/fig02_eda_bivariata_hexbin.png>]
 Overfull \hbox (72.74644pt too wide) in paragraph at lines 127--148
  [][] 
  []
@@ -1848,8 +2081,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[17 <./clustering/images/fig03_heatmap_correlazione_19_feature.png>]
-<clustering/images/fig04_correlazione_7_feature_core.png, id=541, 1093.686pt x 
+[22 <./clustering/images/fig03_heatmap_correlazione_19_feature.png>]
+<clustering/images/fig04_correlazione_7_feature_core.png, id=633, 1093.686pt x 
 389.65575pt>
 File: clustering/images/fig04_correlazione_7_feature_core.png Graphic file (typ
 e png)
@@ -1864,7 +2097,7 @@ Overfull \hbox (85.38795pt too wide) in paragraph at lines 176--177
 
  []
 
-<clustering/images/fig05_pca_screeplot_comunalita.png, id=542, 1137.65025pt x 3
+<clustering/images/fig05_pca_screeplot_comunalita.png, id=634, 1137.65025pt x 3
 89.65575pt>
 File: clustering/images/fig05_pca_screeplot_comunalita.png Graphic file (type p
 ng)
@@ -1879,7 +2112,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[18 <./clustering/images/fig04_correlazione_7_feature_core.png>]
+[23 <./clustering/images/fig04_correlazione_7_feature_core.png>]
 Overfull \hbox (25.05957pt too wide) in paragraph at lines 213--214
 []\T1/ppl/m/n/10.95 (-20) Con $\OML/zplm/m/it/10.95 k \OT1/zplm/m/n/10.95 = \OT
 1/ppl/m/n/10.95 (-20) 3$ \T1/ppl/b/n/10.95 (-20) com-po-nen-ti \T1/ppl/m/n/10.9
@@ -1887,7 +2120,7 @@ Overfull \hbox (25.05957pt too wide) in paragraph at lines 213--214
 za glo-ba-le), la fea-tu-re \T1/pcr/m/n/10.95 posts_created_per_week
  []
 
-<clustering/images/fig06_pca_loadings_5pc.png, id=559, 705.23476pt x 368.577pt>
+<clustering/images/fig06_pca_loadings_5pc.png, id=650, 705.23476pt x 368.577pt>
 
 File: clustering/images/fig06_pca_loadings_5pc.png Graphic file (type png)
 <use clustering/images/fig06_pca_loadings_5pc.png>
@@ -1901,7 +2134,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[19 <./clustering/images/fig05_pca_screeplot_comunalita.png>]
+[24 <./clustering/images/fig05_pca_screeplot_comunalita.png>]
 Overfull \hbox (144.97328pt too wide) in paragraph at lines 228--241
  [][] 
  []
@@ -1956,8 +2189,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[20 <./clustering/images/fig06_pca_loadings_5pc.png>]
-<clustering/images/fig07_kmeans_elbow_wcss_silhouette.png, id=575, 1293.03075pt
+[25 <./clustering/images/fig06_pca_loadings_5pc.png>]
+<clustering/images/fig07_kmeans_elbow_wcss_silhouette.png, id=666, 1293.03075pt
  x 360.74776pt>
 File: clustering/images/fig07_kmeans_elbow_wcss_silhouette.png Graphic file (ty
 pe png)
@@ -1974,7 +2207,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 288.
 
-<clustering/images/fig08_kmeans_2d_3d_lda.png, id=578, 1293.633pt x 430.60875pt
+<clustering/images/fig08_kmeans_2d_3d_lda.png, id=669, 1293.633pt x 430.60875pt
 >
 File: clustering/images/fig08_kmeans_2d_3d_lda.png Graphic file (type png)
 <use clustering/images/fig08_kmeans_2d_3d_lda.png>
@@ -1988,7 +2221,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[21 <./clustering/images/fig07_kmeans_elbow_wcss_silhouette.png>]
+[26 <./clustering/images/fig07_kmeans_elbow_wcss_silhouette.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 298.
@@ -1997,7 +2230,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 298.
 
-<clustering/images/fig09_kmeans_profilazione_heatmap_radar.png, id=584, 1287.61
+<clustering/images/fig09_kmeans_profilazione_heatmap_radar.png, id=675, 1287.61
 05pt x 434.8245pt>
 File: clustering/images/fig09_kmeans_profilazione_heatmap_radar.png Graphic fil
 e (type png)
@@ -2012,7 +2245,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[22 <./clustering/images/fig08_kmeans_2d_3d_lda.png> <./clustering/images/fig09
+[27 <./clustering/images/fig08_kmeans_2d_3d_lda.png> <./clustering/images/fig09
 _kmeans_profilazione_heatmap_radar.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2022,7 +2255,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 332.
 
-<clustering/images/fig10_kmeans_silhouette_knife_crosstab.png, id=594, 1148.490
+<clustering/images/fig10_kmeans_silhouette_knife_crosstab.png, id=685, 1148.490
 75pt x 368.577pt>
 File: clustering/images/fig10_kmeans_silhouette_knife_crosstab.png Graphic file
  (type png)
@@ -2050,7 +2283,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 365.
 
-<clustering/images/fig11_dbscan_kdistance_gridsearch.png, id=595, 1280.98575pt 
+<clustering/images/fig11_dbscan_kdistance_gridsearch.png, id=686, 1280.98575pt 
 x 375.804pt>
 File: clustering/images/fig11_dbscan_kdistance_gridsearch.png Graphic file (typ
 e png)
@@ -2065,8 +2298,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[23 <./clustering/images/fig10_kmeans_silhouette_knife_crosstab.png>]
-<clustering/images/fig12_dbscan_2d_3d_outliers.png, id=605, 1293.633pt x 412.54
+[28 <./clustering/images/fig10_kmeans_silhouette_knife_crosstab.png>]
+<clustering/images/fig12_dbscan_2d_3d_outliers.png, id=696, 1293.633pt x 412.54
 124pt>
 File: clustering/images/fig12_dbscan_2d_3d_outliers.png Graphic file (type png)
 
@@ -2088,9 +2321,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[24 <./clustering/images/fig11_dbscan_kdistance_gridsearch.png> <./clustering/i
+[29 <./clustering/images/fig11_dbscan_kdistance_gridsearch.png> <./clustering/i
 mages/fig12_dbscan_2d_3d_outliers.png>]
-<clustering/images/fig13_hdbscan_eom_vs_leaf.png, id=612, 1293.633pt x 412.5412
+<clustering/images/fig13_hdbscan_eom_vs_leaf.png, id=703, 1293.633pt x 412.5412
 4pt>
 File: clustering/images/fig13_hdbscan_eom_vs_leaf.png Graphic file (type png)
 <use clustering/images/fig13_hdbscan_eom_vs_leaf.png>
@@ -2110,7 +2343,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-13.60228pt}.
 
-[25 <./clustering/images/fig13_hdbscan_eom_vs_leaf.png>]
+[30 <./clustering/images/fig13_hdbscan_eom_vs_leaf.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 481--481
 []|\T1/ppl/m/n/10.95 (+20) Partizionale ba-sa-to su
  []
@@ -2171,12 +2404,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-13.60228pt}.
 
-[26]
+[31]
 \openout2 = `serie_temporali/serie_temporali.aux'.
 
  (serie_temporali/serie_temporali.tex
-Capitolo 3.
-[27
+Capitolo 4.
+[32
 
 
 
@@ -2189,57 +2422,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[28]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[29]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[30]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[31])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[32]
-\openout2 = `backmatter/bibliography.aux'.
-
- (backmatter/bibliography.tex (main.bbl (main.brf)
-\tf@brf=\write13
-\openout13 = `main.brf'.
-
-LaTeX Encoding Info:    Ignoring declaration for text command \guillemotleft (e
-ncoding OT1) on input line 2.
-LaTeX Encoding Info:    Ignoring declaration for text command \guillemotright (
-encoding OT1) on input line 4.
- [33
-
-
-
-
-
-
-]
+[33]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2256,6 +2439,56 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[36])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[37]
+\openout2 = `backmatter/bibliography.aux'.
+
+ (backmatter/bibliography.tex (main.bbl (main.brf)
+\tf@brf=\write13
+\openout13 = `main.brf'.
+
+LaTeX Encoding Info:    Ignoring declaration for text command \guillemotleft (e
+ncoding OT1) on input line 2.
+LaTeX Encoding Info:    Ignoring declaration for text command \guillemotright (
+encoding OT1) on input line 4.
+ [38
+
+
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[39]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[40]
 Underfull \hbox (badness 1728) in paragraph at lines 319--319
 []\T1/ppl/m/sc/10.95 (+20) VDI \T1/ppl/m/n/10.95 (+20) (2001b), ^^SVDI 4640 Bla
 tt 3, Uti-li-za-tion of the sub-sur-fa-ce for ther-mal pur-po-
@@ -2268,7 +2501,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[36]))
+[41]))
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -2276,10 +2509,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[37]
+[42]
 \openout2 = `sitography/sitography.aux'.
 
- (sitography/sitography.tex [38
+ (sitography/sitography.tex [43
 
 
 
@@ -2292,10 +2525,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[39]
+[44]
 \openout2 = `acknowledgements/acknowledgements.aux'.
 
- (acknowledgements/acknowledgements.tex) [40
+ (acknowledgements/acknowledgements.tex) [45
 
 
 
@@ -2320,18 +2553,23 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FC44FDA0727A9176B14369ECF924AB92;14888.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: 4B18F76637EFE826D12676073E5115E7;287.
+(rerunfilecheck)             Checksum: BC1FA59731ECE849065FB2D22023343F;16629.
+
+Package rerunfilecheck Warning: File `main.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `main.brf':
+(rerunfilecheck)             Before: E5165E321E531E271EC5138160210C2A;288
+(rerunfilecheck)             After:  81C6B90D5311BB9B458947F15BCDA410;289.
  ) 
 Here is how much of TeX's memory you used:
- 39483 strings out of 467871
- 778575 string characters out of 5418376
- 1241641 words of memory out of 5000000
- 66556 multiletter control sequences out of 15000+600000
- 758513 words of font info for 714 fonts, out of 8000000 for 9000
+ 39623 strings out of 467871
+ 781192 string characters out of 5418376
+ 1260643 words of memory out of 5000000
+ 66612 multiletter control sequences out of 15000+600000
+ 766378 words of font info for 769 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,16n,139p,2610b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 111i,16n,139p,2508b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\fraiu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -2351,9 +2589,9 @@ Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb>
 fb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8
 a.pfb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/up
 lri8a.pfb>
-Output written on main.pdf (48 pages, 3528068 bytes).
+Output written on main.pdf (54 pages, 3874068 bytes).
 PDF statistics:
- 916 PDF objects out of 1000 (max. 8388607)
- 228 named destinations out of 1000 (max. 500000)
- 162322 words of extra memory for PDF output out of 184870 (max. 10000000)
+ 1011 PDF objects out of 1200 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
+ 166465 words of extra memory for PDF output out of 184870 (max. 10000000)
 
