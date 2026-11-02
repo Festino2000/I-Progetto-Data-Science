@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.1)  1 NOV 2026 18:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.2)  2 NOV 2026 15:43
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**"c:/Users/franc/Desktop/Uni/Magistrale/Data Science/Esercitazioni/Progetto 1/I-Progetto-Data-Science/main.tex"
+(c:/Users/franc/Desktop/Uni/Magistrale/Data Science/Esercitazioni/Progetto 1/I-Progetto-Data-Science/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
 File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -23,30 +24,19 @@ File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(packages.sty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+) (packages.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count284
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2068.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2070.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2072.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2073.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2074.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2076.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2101.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
 \U@D=\dimen149
 \l@unhyphenated=\language79
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count285
 Package babel Info: Configuration files are deprecated, as
@@ -56,19 +46,12 @@ Package babel Info: Configuration files are deprecated, as
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
--english.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babel
--italian.tex)
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babel-italian.tex)
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 4320.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
-df
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -79,31 +62,24 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 )
 Package babel Info: Importing font and identification data for italian
 (babel)             from babel-it.ini. Reported on input line 4320.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.l
-df
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
 Language: italian 2026/01/13 v.1.5.02 Italian support for the babel system
 \it@lettering=\count286
 \it@doublequoteactive=\count287
 \it@ISOcompliance=\count288
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count289
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box53
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 \@indexfile=\write3
@@ -111,77 +87,54 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 
 
 Writing index file main.idx
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
-ies.sty
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
 Package: glossaries 2026/04/21 v5.1 (NLCT)
- (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks19
 \XKV@tempa@toks=\toks20
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
 \XKV@depth=\count290
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.st
-y
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
 Package: mfirstuc 2025/04/03 v2.09 (NLCT)
 \@glsmfirst=\toks21
 \@glsmrest=\toks22
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen150
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
 Package: tracklang 2026/05/24 v1.6.8 (NLCT) Track Languages
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
-ex)
-Package tracklang Info: Tracking dialect `english' (language `english') on inpu
-t line 264.
-Package tracklang Info: Tracking dialect `italian' (language `italian') on inpu
-t line 264.
-Package tracklang Info: Tracking dialect `italian' (language `italian') on inpu
-t line 264.
-Package tracklang Info: Tracking dialect `english' (language `english') on inpu
-t line 264.
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
-ty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 264.
+Package tracklang Info: Tracking dialect `italian' (language `italian') on input line 264.
+Package tracklang Info: Tracking dialect `italian' (language `italian') on input line 264.
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 264.
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
-saries-english.ldf
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-english.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-italian\glos
-saries-italian.ldf
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-italian\glossaries-italian.ldf
 File: glossaries-italian.ldf 2014/11/23 v1.0
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
-sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
 Package: datatool-base 2026/07/31 v3.4.4 (NLCT)
- (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
+
 For additional information on amsmath, use the `?' option.
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen151
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count291
@@ -240,9 +193,7 @@ LaTeX Info: Redefining \] on input line 2951.
 \l__datatool_tmp_datatype_int=\count308
 \l__datatool_tmpa_dim=\dimen159
 \l__datatool_tmpb_dim=\dimen160
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
-def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
 File: datatool-l3fp.def 2026/07/31 v3.4.4 (NLCT)
 )
 \@dtl@toks=\toks28
@@ -250,9 +201,7 @@ File: datatool-l3fp.def 2026/07/31 v3.4.4 (NLCT)
 \dtl@tmplength=\skip54
 \l__datatool_measure_box=\box56
 \dtl@sortresult=\count310
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
-ldf
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
 File: datatool-utf8.ldf 2026/07/31 v3.4.4 (NLCT)
 )
 \@dtl@datatype=\count311
@@ -272,12 +221,10 @@ File: datatool-utf8.ldf 2026/07/31 v3.4.4 (NLCT)
 \@dtl@foreach@level=\count325
 
 
-Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
-t line 9924.
+Package tracklang Warning: No `datatool' support for dialect `english'  on input line 9924.
 
 
-Package tracklang Warning: No `datatool' support for dialect `italian'  on inpu
-t line 9924.
+Package tracklang Warning: No `datatool' support for dialect `italian'  on input line 9924.
 
 \dtl@codeA=\count326
 \dtl@codeB=\count327
@@ -291,21 +238,14 @@ t line 9924.
 \glslabeltok=\toks31
 \glsshorttok=\toks32
 \glslongtok=\toks33
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-hypernav.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
 Package: glossary-hypernav 2026/04/21 v5.1 (NLCT)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-list.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
 Package: glossary-list 2026/04/21 v5.1 (NLCT)
 \glslistdottedwidth=\skip56
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-long.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
 Package: glossary-long 2026/04/21 v5.1 (NLCT)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip57
 \LTright=\skip58
@@ -326,13 +266,9 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 )
 \glsdescwidth=\skip61
 \glspagelistwidth=\skip62
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-super.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
 Package: glossary-super 2026/04/21 v5.1 (NLCT)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
-ar.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
 Package: supertabular 2025/06/26 v4.2d the supertabular environment
 \c@tracingst=\count334
 \ST@wd=\dimen164
@@ -349,9 +285,7 @@ Package: supertabular 2025/06/26 v4.2d the supertabular environment
 \ST@toadd=\dimen172
 \ST@dimen=\dimen173
 \ST@pbox=\box62
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
-ary-tree.sty
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
 Package: glossary-tree 2026/04/21 v5.1 (NLCT)
 \l__glossaries_tree_max_known_level_int=\count335
 \l__glossaries_tree_offset_dim=\dimen174
@@ -375,68 +309,48 @@ Package glossaries Info: Writing glossary file main.glo on input line 30.
 \openout6 = `main.acn'.
 
 Package glossaries Info: Writing glossary file main.acn on input line 30.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip67
 \bibsep=\skip68
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count337
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
 Package: backref 2025-06-21 v1.45 Bibliographical back referencing
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
- (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks35
 \thm@bodyfont=\toks36
@@ -447,11 +361,9 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip70
 \thm@headsep=\skip71
 \dth@everypar=\toks40
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/numprint\numprint.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/numprint\numprint.sty
 Package: numprint 2012/08/20 v1.39 Print numbers (HH)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen183
 \ar@mcellbox=\box63
@@ -478,12 +390,9 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \c@nprt@digitsfirstblock=\count345
 \c@nprt@blockcnt=\count346
 \c@nprt@cntprint=\count347
-
-No configuration file `numprint.cfg' found.)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/mathcomp\mathcomp.sty
+ No configuration file `numprint.cfg' found.) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/mathcomp\mathcomp.sty
 Package: mathcomp 2001/01/07 v0.1f (TBo)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
 \symTC=\mathgroup6
@@ -491,13 +400,11 @@ LaTeX Font Info:    Overwriting symbol font `TC' in version `bold'
 (Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 25.
 LaTeX Font Info:    Redeclaring math symbol \dagger on input line 47.
 LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 48.
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count348
 \calc@Bcount=\count349
@@ -509,8 +416,7 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count350
 \calc@Cskip=\skip80
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count351
@@ -524,64 +430,37 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen193
 \xmathstrut@box=\box65
 \xmathstrut@dim=\dimen194
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen195
 \Gin@req@width=\dimen196
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
-sty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
-y
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--common.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks45
 \pgfutil@tempdima=\dimen197
 \pgfutil@tempdimb=\dimen198
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
--latex.def
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box66
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
-code.tex
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
-sty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
-sty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks46
 \pgfkeys@temptoks=\toks47
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-libraryfiltered.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks48
 ))
 \pgf@x=\dimen199
@@ -604,39 +483,27 @@ libraryfiltered.code.tex
 \t@pgf@tokb=\toks50
 \t@pgf@tokc=\toks51
 \pgf@sys@id@count=\count356
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
-fg
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-pdftex.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-s-common-pdf.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-ssoftpath.code.tex
+))) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count357
 \pgfsyssoftpath@bigbuffer@items=\count358
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
-sprotocol.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -646,57 +513,23 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
 \everycr=\toks52
 \minrowclearance=\skip82
 \rownum=\count359
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-e.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
-code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
-r.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen265
 \pgfmath@count=\count360
 \pgfmath@box=\box67
 \pgfmath@toks=\toks53
 \pgfmath@stack@operand=\toks54
 \pgfmath@stack@operation=\toks55
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.basic.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.trigonometric.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.random.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.comparison.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.base.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.round.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.misc.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
-ions.integerarithmetics.code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
-code.tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
-.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count361
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
-tex)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epoints.code.tex
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen266
 \pgf@picmaxx=\dimen267
@@ -712,130 +545,75 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen277
 \pgf@zx=\dimen278
 \pgf@zy=\dimen279
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathconstruct.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen280
 \pgf@path@lasty=\dimen281
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathusage.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen282
 \pgf@shorten@start@additional=\dimen283
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-escopes.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box68
 \pgf@hbox=\box69
 \pgf@layerbox@main=\box70
 \pgf@picture@serial@count=\count362
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-egraphicstate.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen284
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransformations.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen285
 \pgf@pt@y=\dimen286
 \pgf@pt@temp=\dimen287
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-equick.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eobjects.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epathprocessing.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-earrows.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen288
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eshade.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen289
 \pgf@sys@shading@range@num=\count363
 \pgf@shadingcount=\count364
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eimage.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-eexternal.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box71
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-elayers.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-etransparency.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-epatterns.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
-erdf.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-shapes.code.tex
+))) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box72
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-plot.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-0-65.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen290
 \pgf@nodesepend=\dimen291
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
-mp-version-1-18.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
-y
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
-ty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
-.code.tex))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
-.tex))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
-code.tex
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen292
 \pgffor@skip=\dimen293
 \pgffor@stack=\toks56
 \pgffor@toks=\toks57
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z\tikz.code.tex
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryplothandlers.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count365
 \pgfplotmarksize=\dimen294
@@ -856,33 +634,21 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count367
 \tikznumberofcurrentchild=\count368
 \tikz@fig@count=\count369
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-matrix.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count370
 \pgfmatrixcurrentcolumn=\count371
 \pgf@matrix@numberofcolumns=\count372
 )
 \tikz@expandcount=\count373
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryarrows.code.tex
+))) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryarrows.code.tex
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \arrowsize=\dimen303
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarydecorations.code.tex
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
-decorations.code.tex
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
 \pgfdecoratedcompleteddistance=\dimen304
 \pgfdecoratedremainingdistance=\dimen305
 \pgfdecoratedinputsegmentcompleteddistance=\dimen306
@@ -893,22 +659,18 @@ decorations.code.tex
 \pgfdecorationsegmentlength=\dimen310
 )
 \tikz@lib@dec@box=\box77
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibrarybackgrounds.code.tex
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@layerbox@background=\box78
 \pgf@layerboxsaved@background=\box79
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen311
 \WF@size=\dimen312
 \c@WF@wrappedlines=\count375
 \WF@box=\box80
 \WF@everypar=\toks58
 Package: wrapfig 2003/01/31  v 3.6
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen313
 \lightrulewidth=\dimen314
@@ -928,10 +690,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count379
 \@thisrulewidth=\dimen325
 )
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen326
 \captionmargin=\dimen327
@@ -946,26 +707,25 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count380
 \c@continuedfloat=\count381
 Package caption Info: longtable package is loaded.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: wrapfig package is loaded.
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \c@r@tfl@t=\count382
 \rotFPtop=\skip83
 \rotFPbot=\skip84
 \rot@float@box=\box81
 \rot@mess@toks=\toks59
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip85
 \multirow@cntb=\count383
 \multirow@dima=\skip86
 \bigstrutjot=\dimen334
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen335
 \TX@old@table=\dimen336
@@ -974,21 +734,16 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen339
 \TX@cols=\count384
 \TX@ftn=\toks60
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathpazo.sty
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup7
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count385
@@ -1003,21 +758,16 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen346
 \Gm@layoutvoffset=\dimen347
 \Gm@dimlist=\toks61
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/changepage\chngpage.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/changepage\chngpage.sty
 Package: chngpage 2009/10/20 v1.2b change page layout
 \c@cp@cnt=\count388
 \c@cp@tempcnt=\count389
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
 \ESO@tempdima=\dimen348
 \ESO@tempdimb=\dimen349
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip87
 \f@nch@offset@elh=\skip88
 \f@nch@offset@erh=\skip89
@@ -1035,22 +785,16 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \@temptokenb=\toks62
 )
 
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 199.
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 199.
 
 
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 201.
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 201.
 
 
-Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less.
-(fancyhdr)                Please consider using the `twoside' option on input l
-ine 202.
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is useless.
+(fancyhdr)                Please consider using the `twoside' option on input line 202.
 
 (fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
@@ -1061,15 +805,12 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \py=\skip105
 \pyy=\skip106
 \pxx=\skip107
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
 Package: varioref 2025/01/14 v1.6g package for extended references (FMi)
 \c@vrcnt=\count390
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
 Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
 \MT@toks=\toks63
 \MT@tempbox=\box82
@@ -1083,69 +824,53 @@ LaTeX Info: Redefining \textls on input line 1449.
 LaTeX Info: Redefining \microtypecontext on input line 2053.
 LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
 \MT@listname@count=\count392
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
-tex.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
-
 LaTeX Info: Redefining \lsstyle on input line 944.
 LaTeX Info: Redefining \lslig on input line 944.
 \MT@outer@space=\skip108
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
 File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
 )
 LaTeX Info: Redefining \microtypesetup on input line 3065.
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
 Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
 \@enLab=\toks65
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write8
-
-Excluding comment 'comment')
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+ Excluding comment 'comment') (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count393
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
-ty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen351
 \Hy@linkcounter=\count394
 \Hy@pagecounter=\count395
- (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count396
- (C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -1160,15 +885,13 @@ Package hyperref Info: Backreferencing ON on input line 4213.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count397
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen352
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
 \Fld@menulength=\count398
@@ -1186,14 +909,12 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count401
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count402
 \c@bookmark@seq@number=\count403
 \Hy@SectionHShift=\skip109
-))
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+)) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count404
 \sf@farskip=\skip110
@@ -1208,8 +929,7 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@lotdepth=\count410
 \sf@top=\skip113
 \sf@bottom=\skip114
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count411
 \float@exts=\toks66
@@ -1217,25 +937,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks67
 \@floatcapt=\box84
 )
-LaTeX Font Info:    Trying to load font information for T1+ppl on input line 51
-.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 51.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count412
-) (main.aux (frontmatter/frontispiece.aux) (frontmatter/credits.aux)
-(frontmatter/abstract.aux) (introduction/introduction.aux)
-(classificazione/classificazione.aux) (clustering/clustering.aux)
-(serie_temporali/serie_temporali.aux
+) (main.aux (frontmatter/frontispiece.aux) (frontmatter/credits.aux) (frontmatter/abstract.aux) (introduction/introduction.aux) (classificazione/classificazione.aux) (clustering/clustering.aux) (serie_temporali/serie_temporali.aux
 
 LaTeX Warning: Label `2tab:valori_richiesti_pdc' multiply defined.
 
-) (backmatter/bibliography.aux) (sitography/sitography.aux)
-(acknowledgements/acknowledgements.aux))
+) (backmatter/bibliography.aux) (sitography/sitography.aux) (acknowledgements/acknowledgements.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -1263,14 +975,11 @@ Package backref Info: ** backref set up for natbib ** on input line 51.
 Package gensymb Info: Math companion symbols found on input line 51.
 LaTeX Info: Redefining \degree on input line 51.
 LaTeX Info: Redefining \celsius on input line 51.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 51.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 51.
 LaTeX Info: Redefining \ohm on input line 51.
 Package gensymb Info: Using \textohm for \ohm on input line 51.
 Package gensymb Info: Using \textmu for \micro on input line 51.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count413
 \scratchdimen=\dimen356
@@ -1283,15 +992,10 @@ ii
 \MPnumerator=\count417
 \makeMPintoPDFobject=\count418
 \everyMPtoPDFconversion=\toks69
-)
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -1353,12 +1057,11 @@ Package microtype Info: Patching command `\showhyphens'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ppl.cfg
+(C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 Package hyperref Info: Link coloring ON on input line 51.
-
-(main.out) (main.out)
+ (main.out) (main.out)
 \@outlinefile=\write9
 \openout9 = `main.out'.
 
@@ -1370,34 +1073,25 @@ File: frontmatter/images/logo.png Graphic file (type png)
 <use frontmatter/images/logo.png>
 Package pdftex.def Info: frontmatter/images/logo.png  used on input line 25.
 (pdftex.def)             Requested size: 99.58464pt x 99.58188pt.
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 4
-3.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 43.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 43.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 43.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 43.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 11.40997pt on input line 43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -1406,39 +1100,31 @@ LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 11.40997pt on input line 43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-43.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 43.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-[1
+ [1
 
 \openout4 = `main.ist'.
 
 
 
-{C:/Users/fraiu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/frai
-u/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./frontmatter/ima
-ges/logo.png>])
+{C:/Users/franc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./frontmatter/images/logo.png>])
 \openout2 = `frontmatter/credits.aux'.
 
  (frontmatter/credits.tex [1
@@ -1459,8 +1145,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.64 \include{frontmatter/abstract}
@@ -1470,10 +1155,8 @@ l.64 \include{frontmatter/abstract}
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 69
-.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 69.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
@@ -1482,29 +1165,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-(main.toc
+ (main.toc
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 7.
-
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `pcr' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-[2
+ [2
 
 
 
 ]
 Overfull \hbox (12.63446pt too wide) in paragraph at lines 42--42
- [][] [][][]\T1/ppl/m/n/10.95 (-20) Metodologia, $\OML/zplm/m/it/10.95 k$\T1/pp
-l/m/n/10.95 (-20) -Distance Plot e Grid Search Bi-va-ria-ta (\T1/pcr/m/n/10.95 
-eps $\OMS/zplm/m/n/10.95 ^^B$ \T1/pcr/m/n/10.95 min_samples\T1/ppl/m/n/10.95 (-
-20) )[][] [][]  
+ [][] [][][]\T1/ppl/m/n/10.95 (-20) Metodologia, $\OML/zplm/m/it/10.95 k$\T1/ppl/m/n/10.95 (-20) -Distance Plot e Grid Search Bi-va-ria-ta (\T1/pcr/m/n/10.95 eps $\OMS/zplm/m/n/10.95 ^^B$ \T1/pcr/m/n/10.95 min_samples\T1/ppl/m/n/10.95 (-20) )[][] [][]  
  []
 
 )
@@ -1523,9 +1199,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Overfull \hbox (14.00761pt too wide) in paragraph at lines 24--24
- \T1/ppl/m/n/10.95 (-20) riz-za-zio-ne de-gli Ou-tlier (\T1/pcr/m/n/10.95 -1\T1
-/ppl/m/n/10.95 (-20) ) tra-mi-te di-stri-bu-zio-ne di \T1/pcr/m/n/10.95 posts_c
-reated_per_week\T1/ppl/m/n/10.95 (-20) .[][] [][]  
+ \T1/ppl/m/n/10.95 (-20) riz-za-zio-ne de-gli Ou-tlier (\T1/pcr/m/n/10.95 -1\T1/ppl/m/n/10.95 (-20) ) tra-mi-te di-stri-bu-zio-ne di \T1/pcr/m/n/10.95 posts_created_per_week\T1/ppl/m/n/10.95 (-20) .[][] [][]  
  []
 
 )
@@ -1542,23 +1216,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [5] (main.lot
 Overfull \hbox (49.25746pt too wide) in paragraph at lines 7--7
- \T1/pcr/m/n/10.95 instagram_usage_lifestyle.csv \T1/ppl/m/n/10.95 (-20) (Raw) 
-e \T1/pcr/m/n/10.95 instagram_users_lifestyle.csv 
+ \T1/pcr/m/n/10.95 instagram_usage_lifestyle.csv \T1/ppl/m/n/10.95 (-20) (Raw) e \T1/pcr/m/n/10.95 instagram_users_lifestyle.csv 
  []
 
 
 Overfull \hbox (76.4437pt too wide) in paragraph at lines 21--21
- [][] [][][]\T1/ppl/m/n/10.95 (-20) Profilazione di HDB-SCAN con me-to-do \T1/p
-cr/m/n/10.95 EOM \T1/ppl/m/n/10.95 (-20) (\T1/pcr/m/n/10.95 min_cluster_size=10
-0, min_samples=15\T1/ppl/m/n/10.95 (-20) , 
+ [][] [][][]\T1/ppl/m/n/10.95 (-20) Profilazione di HDB-SCAN con me-to-do \T1/pcr/m/n/10.95 EOM \T1/ppl/m/n/10.95 (-20) (\T1/pcr/m/n/10.95 min_cluster_size=100, min_samples=15\T1/ppl/m/n/10.95 (-20) , 
  []
 
 
 Overfull \hbox (42.95671pt too wide) in paragraph at lines 21--21
- \T1/ppl/m/n/10.95 (-20) Si-lhouet-te $\OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95
- (-20) 0, 6061$\T1/ppl/m/n/10.95 (-20) ) e me-to-do \T1/pcr/m/n/10.95 Leaf \T1/
-ppl/m/n/10.95 (-20) (\T1/pcr/m/n/10.95 min_cluster_size=200, min_samples=10\T1/
-ppl/m/n/10.95 (-20) , 
+ \T1/ppl/m/n/10.95 (-20) Si-lhouet-te $\OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 (-20) 0, 6061$\T1/ppl/m/n/10.95 (-20) ) e me-to-do \T1/pcr/m/n/10.95 Leaf \T1/ppl/m/n/10.95 (-20) (\T1/pcr/m/n/10.95 min_cluster_size=200, min_samples=10\T1/ppl/m/n/10.95 (-20) , 
  []
 
 )
@@ -1584,17 +1252,13 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 23.63593pt on input line 1.
 
 Overfull \hbox (20.16672pt too wide) in paragraph at lines 13--14
-\T1/ppl/m/it/10.95 (-20) Qua-li-ty & Clea-ning \T1/ppl/m/n/10.95 (-20) (con-fro
-n-tan-do la ver-sio-ne grez-za \T1/pcr/m/n/10.95 instagram_usage_lifestyle.csv
+\T1/ppl/m/it/10.95 (-20) Qua-li-ty & Clea-ning \T1/ppl/m/n/10.95 (-20) (con-fron-tan-do la ver-sio-ne grez-za \T1/pcr/m/n/10.95 instagram_usage_lifestyle.csv
  []
 
-<introduction/images/fig_desc01_demografia_globale.png, id=480, 1293.03075pt x 
-390.258pt>
-File: introduction/images/fig_desc01_demografia_globale.png Graphic file (type 
-png)
+<introduction/images/fig_desc01_demografia_globale.png, id=480, 1293.03075pt x 390.258pt>
+File: introduction/images/fig_desc01_demografia_globale.png Graphic file (type png)
 <use introduction/images/fig_desc01_demografia_globale.png>
-Package pdftex.def Info: introduction/images/fig_desc01_demografia_globale.png 
- used on input line 20.
+Package pdftex.def Info: introduction/images/fig_desc01_demografia_globale.png  used on input line 20.
 (pdftex.def)             Requested size: 441.01775pt x 133.10875pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 9.49997pt on input line 21.
@@ -1609,8 +1273,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 21.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.24 
@@ -1619,55 +1282,42 @@ l.24
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 3
-4.
-
-(C:\Users\fraiu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 34.
+ (C:\Users\franc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 Overfull \hbox (26.63113pt too wide) in paragraph at lines 35--36
-\T1/ppl/m/n/10.95 (-20) me-dia del-le ses-sio-ni e pun-teg-gio com-po-si-to di 
-coin-vol-gi-men-to (\T1/pcr/m/n/10.95 user_engagement_score\T1/ppl/m/n/10.95 (-
-20) ); 
+\T1/ppl/m/n/10.95 (-20) me-dia del-le ses-sio-ni e pun-teg-gio com-po-si-to di coin-vol-gi-men-to (\T1/pcr/m/n/10.95 user_engagement_score\T1/ppl/m/n/10.95 (-20) ); 
  []
 
 
 Overfull \hbox (35.65675pt too wide) in paragraph at lines 36--37
-\T1/ppl/m/n/10.95 (-20) men-ta-ri e di sti-le di vi-ta, pre-fe-ren-ze sui con-t
-e-nu-ti e da-ta di ul-ti-mo ac-ces-so (\T1/pcr/m/n/10.95 last_login_date\T1/ppl
-/m/n/10.95 (-20) ); 
+\T1/ppl/m/n/10.95 (-20) men-ta-ri e di sti-le di vi-ta, pre-fe-ren-ze sui con-te-nu-ti e da-ta di ul-ti-mo ac-ces-so (\T1/pcr/m/n/10.95 last_login_date\T1/ppl/m/n/10.95 (-20) ); 
  []
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 80--80
-[]|\T1/ppl/m/n/10.95 (+20) Genere (\T1/ppl/m/it/10.95 (+20) Fe-ma-le $\OT1/ppl/
-m/n/10.95 (+20) 48%$\T1/ppl/m/n/10.95 (+20) , \T1/ppl/m/it/10.95 (+20) Ma-le $\
-OT1/ppl/m/n/10.95 (+20) 48%$\T1/ppl/m/n/10.95 (+20) , \T1/ppl/m/it/10.95 (+20) 
-Non-
+[]|\T1/ppl/m/n/10.95 (+20) Genere (\T1/ppl/m/it/10.95 (+20) Fe-ma-le $\OT1/ppl/m/n/10.95 (+20) 48%$\T1/ppl/m/n/10.95 (+20) , \T1/ppl/m/it/10.95 (+20) Ma-le $\OT1/ppl/m/n/10.95 (+20) 48%$\T1/ppl/m/n/10.95 (+20) , \T1/ppl/m/it/10.95 (+20) Non-
  []
 
 
 Underfull \hbox (badness 1824) in paragraph at lines 80--80
-[]|\T1/ppl/m/n/10.95 (+20) Fascia di red-di-to (\T1/ppl/m/it/10.95 (+20) Low, L
-ower-middle,
+[]|\T1/ppl/m/n/10.95 (+20) Fascia di red-di-to (\T1/ppl/m/it/10.95 (+20) Low, Lower-middle,
  []
 
 
 Underfull \hbox (badness 1221) in paragraph at lines 80--80
-[]|\T1/ppl/m/n/10.95 (+20) Qualità del-l'a-li-men-ta-zio-ne (\T1/ppl/m/it/10.95
- (+20) Ve-ry poor,
+[]|\T1/ppl/m/n/10.95 (+20) Qualità del-l'a-li-men-ta-zio-ne (\T1/ppl/m/it/10.95 (+20) Ve-ry poor,
  []
 
 
 Underfull \hbox (badness 4366) in paragraph at lines 80--80
-[]|\T1/pcr/m/n/10.95 int64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 9
-0 [] 180$ \T1/ppl/m/n/10.95 (+20) mm-
+[]|\T1/pcr/m/n/10.95 int64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 90 [] 180$ \T1/ppl/m/n/10.95 (+20) mm-
  []
 
 
 Underfull \hbox (badness 4366) in paragraph at lines 80--80
-[]|\T1/pcr/m/n/10.95 int64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 6
-0 [] 120$ \T1/ppl/m/n/10.95 (+20) mm-
+[]|\T1/pcr/m/n/10.95 int64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 60 [] 120$ \T1/ppl/m/n/10.95 (+20) mm-
  []
 
 
@@ -1679,8 +1329,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2 <./introduction/images/fig_desc01_demografia_globale.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
-[]|\T1/pcr/m/n/10.95 float64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20)
- 5, 0 [] 50, 0$
+[]|\T1/pcr/m/n/10.95 float64 \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 5, 0 [] 50, 0$
  []
 
 
@@ -1690,8 +1339,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--129
 
 
 Underfull \hbox (badness 1112) in paragraph at lines 129--129
-[]|\T1/ppl/m/n/10.95 (+20) Tema pre-fe-ri-to (\T1/ppl/m/it/10.95 (+20) Fit-ness
-, Tech, Fa-shion,
+[]|\T1/ppl/m/n/10.95 (+20) Tema pre-fe-ri-to (\T1/ppl/m/it/10.95 (+20) Fit-ness, Tech, Fa-shion,
  []
 
 
@@ -1715,18 +1363,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-<introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png, id=507, 1
-293.633pt x 375.804pt>
-File: introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png Graph
-ic file (type png)
+<introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png, id=507, 1293.633pt x 375.804pt>
+File: introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png Graphic file (type png)
 <use introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png>
-Package pdftex.def Info: introduction/images/fig_desc02_confronto_pulizia_usage
-_vs_users.png  used on input line 147.
+Package pdftex.def Info: introduction/images/fig_desc02_confronto_pulizia_usage_vs_users.png  used on input line 147.
 (pdftex.def)             Requested size: 441.01775pt x 128.11572pt.
 
 Underfull \hbox (badness 4378) in paragraph at lines 154--154
-[][]|\T1/ppl/m/n/10 (+20) Rie-pi-lo-go del-le 6 co-lon-ne sot-to-po-ste a cor-r
-e-zio-ne di in-te-gri-tà se-man-ti-ca tra
+[][]|\T1/ppl/m/n/10 (+20) Rie-pi-lo-go del-le 6 co-lon-ne sot-to-po-ste a cor-re-zio-ne di in-te-gri-tà se-man-ti-ca tra
  []
 
 
@@ -1736,26 +1380,22 @@ Underfull \hbox (badness 3612) in paragraph at lines 174--174
 
 
 Underfull \hbox (badness 4765) in paragraph at lines 174--174
-\T1/ppl/m/n/10.95 (+20) clas-si-fi-ca-ti co-me \T1/ppl/m/it/10.95 (+20) Full-ti
-me
+\T1/ppl/m/n/10.95 (+20) clas-si-fi-ca-ti co-me \T1/ppl/m/it/10.95 (+20) Full-time
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 174--174
-\T1/ppl/m/it/10.95 (+20) em-ployed \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95
- (+20) 44, 9%$\T1/ppl/m/n/10.95 (+20) ), \T1/ppl/m/it/10.95 (+20) Re-ti-red
+\T1/ppl/m/it/10.95 (+20) em-ployed \T1/ppl/m/n/10.95 (+20) ($\OT1/ppl/m/n/10.95 (+20) 44, 9%$\T1/ppl/m/n/10.95 (+20) ), \T1/ppl/m/it/10.95 (+20) Re-ti-red
  []
 
 
 Underfull \hbox (badness 4048) in paragraph at lines 174--174
-\T1/ppl/m/n/10.95 (+20) (pen-sio-na-ti, $\OT1/ppl/m/n/10.95 (+20) 4, 9%$\T1/ppl
-/m/n/10.95 (+20) ) o \T1/ppl/m/it/10.95 (+20) Self-
+\T1/ppl/m/n/10.95 (+20) (pen-sio-na-ti, $\OT1/ppl/m/n/10.95 (+20) 4, 9%$\T1/ppl/m/n/10.95 (+20) ) o \T1/ppl/m/it/10.95 (+20) Self-
  []
 
 
 Underfull \hbox (badness 1112) in paragraph at lines 174--174
-[]|\T1/ppl/m/n/10.95 (+20) Ore la-vo-ra-ti-ve az-ze-ra-te ($\OT1/ppl/m/n/10.95 
-(+20) 0, 0$
+[]|\T1/ppl/m/n/10.95 (+20) Ore la-vo-ra-ti-ve az-ze-ra-te ($\OT1/ppl/m/n/10.95 (+20) 0, 0$
  []
 
 
@@ -1765,14 +1405,12 @@ Underfull \hbox (badness 4647) in paragraph at lines 174--174
 
 
 Underfull \hbox (badness 1057) in paragraph at lines 174--174
-\T1/ppl/m/n/10.95 (+20) ni re-gi-stra-ti co-me \T1/ppl/m/it/10.95 (+20) Mar-rie
-d
+\T1/ppl/m/n/10.95 (+20) ni re-gi-stra-ti co-me \T1/ppl/m/it/10.95 (+20) Mar-ried
  []
 
 
 Underfull \hbox (badness 3386) in paragraph at lines 174--174
-\T1/ppl/m/n/10.95 (+20) per il $\OT1/ppl/m/n/10.95 (+20) 100%$ \T1/ppl/m/n/10.9
-5 (+20) dei mi-no-ren-ni
+\T1/ppl/m/n/10.95 (+20) per il $\OT1/ppl/m/n/10.95 (+20) 100%$ \T1/ppl/m/n/10.95 (+20) dei mi-no-ren-ni
  []
 
 
@@ -1803,26 +1441,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Overfull \hbox (52.69937pt too wide) in paragraph at lines 186--187
-\T1/ppl/m/n/10.95 (-20) stan-te \T1/ppl/m/it/10.95 (-20) ``In-sta-gram''\T1/ppl
-/m/n/10.95 (-20) ), \T1/pcr/m/n/10.95 last_login_date\T1/ppl/m/n/10.95 (-20) , 
-\T1/pcr/m/n/10.95 subscription_status\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.9
-5 uses_premium_features\T1/ppl/m/n/10.95 (-20) ,
+\T1/ppl/m/n/10.95 (-20) stan-te \T1/ppl/m/it/10.95 (-20) ``In-sta-gram''\T1/ppl/m/n/10.95 (-20) ), \T1/pcr/m/n/10.95 last_login_date\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 subscription_status\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 uses_premium_features\T1/ppl/m/n/10.95 (-20) ,
  []
 
 
 Overfull \hbox (37.38861pt too wide) in paragraph at lines 186--187
-\T1/pcr/m/n/10.95 content_type_preference\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/
-10.95 preferred_content_theme\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 privac
-y_setting_level\T1/ppl/m/n/10.95 (-20) ,
+\T1/pcr/m/n/10.95 content_type_preference\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 preferred_content_theme\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 privacy_setting_level\T1/ppl/m/n/10.95 (-20) ,
  []
 
-<introduction/images/fig_desc03_panoramica_variabili_lifestyle.png, id=516, 129
-3.633pt x 375.804pt>
-File: introduction/images/fig_desc03_panoramica_variabili_lifestyle.png Graphic
- file (type png)
+<introduction/images/fig_desc03_panoramica_variabili_lifestyle.png, id=516, 1293.633pt x 375.804pt>
+File: introduction/images/fig_desc03_panoramica_variabili_lifestyle.png Graphic file (type png)
 <use introduction/images/fig_desc03_panoramica_variabili_lifestyle.png>
-Package pdftex.def Info: introduction/images/fig_desc03_panoramica_variabili_li
-festyle.png  used on input line 192.
+Package pdftex.def Info: introduction/images/fig_desc03_panoramica_variabili_lifestyle.png  used on input line 192.
 (pdftex.def)             Requested size: 441.01775pt x 128.11572pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1842,8 +1472,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [7 <./introduction/images/fig_desc03_panoramica_variabili_lifestyle.png>]
 \openout2 = `classificazione/classificazione.aux'.
 
-
-(classificazione/classificazione.tex
+ (classificazione/classificazione.tex
 Capitolo 2.
 [8
 
@@ -1852,25 +1481,18 @@ Capitolo 2.
 
 ]
 Overfull \hbox (1.08702pt too wide) in paragraph at lines 33--34
-[]\T1/ppl/m/n/10.95 (-20) Per af-fron-ta-re il pro-ble-ma del-lo sbi-lan-cia-me
-n-to del-le clas-si nel-la va-ria-bi-le tar-get \T1/ppl/m/it/10.95 (-20) diet_q
-uality
+[]\T1/ppl/m/n/10.95 (-20) Per af-fron-ta-re il pro-ble-ma del-lo sbi-lan-cia-men-to del-le clas-si nel-la va-ria-bi-le tar-get \T1/ppl/m/it/10.95 (-20) diet_quality
  []
 
 
 Overfull \hbox (5.57509pt too wide) in paragraph at lines 39--40
-[]\T1/ppl/m/n/10.95 (-20) Per ri-dur-re il nu-me-ro di cam-pio-ni del-le clas-s
-i mag-gio-ri-ta-rie del-la va-ria-bi-le tar-get \T1/ppl/m/it/10.95 (-20) diet_q
-uality
+[]\T1/ppl/m/n/10.95 (-20) Per ri-dur-re il nu-me-ro di cam-pio-ni del-le clas-si mag-gio-ri-ta-rie del-la va-ria-bi-le tar-get \T1/ppl/m/it/10.95 (-20) diet_quality
  []
 
-<classificazione/images/distribuzione_diet_quality.png, id=535, 578.16pt x 433.
-62pt>
-File: classificazione/images/distribuzione_diet_quality.png Graphic file (type 
-png)
+<classificazione/images/distribuzione_diet_quality.png, id=535, 578.16pt x 433.62pt>
+File: classificazione/images/distribuzione_diet_quality.png Graphic file (type png)
 <use classificazione/images/distribuzione_diet_quality.png>
-Package pdftex.def Info: classificazione/images/distribuzione_diet_quality.png 
- used on input line 43.
+Package pdftex.def Info: classificazione/images/distribuzione_diet_quality.png  used on input line 43.
 (pdftex.def)             Requested size: 352.81554pt x 264.60706pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1880,13 +1502,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [9]
-<classificazione/images/distribuzione_diet_quality_bilanciato.png, id=541, 578.
-16pt x 433.62pt>
-File: classificazione/images/distribuzione_diet_quality_bilanciato.png Graphic 
-file (type png)
+<classificazione/images/distribuzione_diet_quality_bilanciato.png, id=541, 578.16pt x 433.62pt>
+File: classificazione/images/distribuzione_diet_quality_bilanciato.png Graphic file (type png)
 <use classificazione/images/distribuzione_diet_quality_bilanciato.png>
-Package pdftex.def Info: classificazione/images/distribuzione_diet_quality_bila
-nciato.png  used on input line 54.
+Package pdftex.def Info: classificazione/images/distribuzione_diet_quality_bilanciato.png  used on input line 54.
 (pdftex.def)             Requested size: 352.81554pt x 264.60706pt.
 
 
@@ -1897,13 +1516,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [10 <./classificazione/images/distribuzione_diet_quality.png>]
-<classificazione/images/matrice_correlazione_bilanciato.png, id=549, 1110.0672p
-t x 543.4704pt>
-File: classificazione/images/matrice_correlazione_bilanciato.png Graphic file (
-type png)
+<classificazione/images/matrice_correlazione_bilanciato.png, id=549, 1110.0672pt x 543.4704pt>
+File: classificazione/images/matrice_correlazione_bilanciato.png Graphic file (type png)
 <use classificazione/images/matrice_correlazione_bilanciato.png>
-Package pdftex.def Info: classificazione/images/matrice_correlazione_bilanciato
-.png  used on input line 65.
+Package pdftex.def Info: classificazione/images/matrice_correlazione_bilanciato.png  used on input line 65.
 (pdftex.def)             Requested size: 396.91327pt x 194.32236pt.
 
 
@@ -1913,8 +1529,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11 <./classificazione/images/distribuzione_diet_quality_bilanciato.png> <./cla
-ssificazione/images/matrice_correlazione_bilanciato.png>]
+[11 <./classificazione/images/distribuzione_diet_quality_bilanciato.png> <./classificazione/images/matrice_correlazione_bilanciato.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1987,24 +1602,18 @@ Capitolo 3.
 
 ]
 Overfull \hbox (81.18314pt too wide) in paragraph at lines 64--65
-[]\T1/ppl/b/n/10.95 (-20) Sessioni gior-na-lie-re (\T1/pcr/b/n/10.95 sessions_p
-er_day\T1/ppl/b/n/10.95 (-20) ) e Du-ra-ta me-dia (\T1/pcr/b/n/10.95 average_se
-ssion_length_minutes\T1/ppl/b/n/10.95 (-20) ):
+[]\T1/ppl/b/n/10.95 (-20) Sessioni gior-na-lie-re (\T1/pcr/b/n/10.95 sessions_per_day\T1/ppl/b/n/10.95 (-20) ) e Du-ra-ta me-dia (\T1/pcr/b/n/10.95 average_session_length_minutes\T1/ppl/b/n/10.95 (-20) ):
  []
 
 
 Overfull \hbox (8.47021pt too wide) in paragraph at lines 65--66
-[]\T1/ppl/b/n/10.95 (-20) Benessere Psi-co-lo-gi-co (\T1/pcr/b/n/10.95 perceive
-d_stress_score \T1/ppl/b/n/10.95 (-20) e \T1/pcr/b/n/10.95 self_reported_happin
-ess\T1/ppl/b/n/10.95 (-20) ):
+[]\T1/ppl/b/n/10.95 (-20) Benessere Psi-co-lo-gi-co (\T1/pcr/b/n/10.95 perceived_stress_score \T1/ppl/b/n/10.95 (-20) e \T1/pcr/b/n/10.95 self_reported_happiness\T1/ppl/b/n/10.95 (-20) ):
  []
 
-<clustering/images/fig01_eda_univariata.png, id=604, 1148.49075pt x 666.69075pt
->
+<clustering/images/fig01_eda_univariata.png, id=604, 1148.49075pt x 666.69075pt>
 File: clustering/images/fig01_eda_univariata.png Graphic file (type png)
 <use clustering/images/fig01_eda_univariata.png>
-Package pdftex.def Info: clustering/images/fig01_eda_univariata.png  used on in
-put line 77.
+Package pdftex.def Info: clustering/images/fig01_eda_univariata.png  used on input line 77.
 (pdftex.def)             Requested size: 441.01775pt x 256.0104pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2015,17 +1624,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [19]
 Overfull \hbox (40.33125pt too wide) in paragraph at lines 89--90
-[]\T1/ppl/b/n/10.95 (-20) Asimmetria po-si-ti-va per Ses-sio-ni e Po-st: \T1/pc
-r/m/n/10.95 sessions_per_day \T1/ppl/m/n/10.95 (-20) e \T1/pcr/m/n/10.95 posts_
-created_per_week
+[]\T1/ppl/b/n/10.95 (-20) Asimmetria po-si-ti-va per Ses-sio-ni e Po-st: \T1/pcr/m/n/10.95 sessions_per_day \T1/ppl/m/n/10.95 (-20) e \T1/pcr/m/n/10.95 posts_created_per_week
  []
 
-<clustering/images/fig02_eda_bivariata_hexbin.png, id=610, 1293.633pt x 390.258
-pt>
+<clustering/images/fig02_eda_bivariata_hexbin.png, id=610, 1293.633pt x 390.258pt>
 File: clustering/images/fig02_eda_bivariata_hexbin.png Graphic file (type png)
 <use clustering/images/fig02_eda_bivariata_hexbin.png>
-Package pdftex.def Info: clustering/images/fig02_eda_bivariata_hexbin.png  used
- on input line 97.
+Package pdftex.def Info: clustering/images/fig02_eda_bivariata_hexbin.png  used on input line 97.
 (pdftex.def)             Requested size: 441.01775pt x 133.04324pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2035,13 +1640,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [20 <./clustering/images/fig01_eda_univariata.png>]
-<clustering/images/fig03_heatmap_correlazione_19_feature.png, id=619, 944.93025
-pt x 714.87074pt>
-File: clustering/images/fig03_heatmap_correlazione_19_feature.png Graphic file 
-(type png)
+<clustering/images/fig03_heatmap_correlazione_19_feature.png, id=619, 944.93025pt x 714.87074pt>
+File: clustering/images/fig03_heatmap_correlazione_19_feature.png Graphic file (type png)
 <use clustering/images/fig03_heatmap_correlazione_19_feature.png>
-Package pdftex.def Info: clustering/images/fig03_heatmap_correlazione_19_featur
-e.png  used on input line 118.
+Package pdftex.def Info: clustering/images/fig03_heatmap_correlazione_19_feature.png  used on input line 118.
 (pdftex.def)             Requested size: 441.01775pt x 333.64406pt.
 
 
@@ -2058,20 +1660,12 @@ Overfull \hbox (72.74644pt too wide) in paragraph at lines 127--148
 
 
 Overfull \hbox (93.25948pt too wide) in paragraph at lines 150--151
-\T1/pcr/m/n/10.95 stories_viewed_per_day $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/
-10.95 = \OT1/ppl/m/n/10.95 (-20) 0, 95$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10
-.95 reels_watched_per_day $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95 = \OT1/pp
-l/m/n/10.95 (-20) 0, 94$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 comments_wr
-itten_per_day
+\T1/pcr/m/n/10.95 stories_viewed_per_day $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 (-20) 0, 95$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 reels_watched_per_day $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 (-20) 0, 94$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 comments_written_per_day
  []
 
 
 Overfull \hbox (34.12955pt too wide) in paragraph at lines 150--151
-\T1/pcr/m/n/10.95 dms_sent_per_week $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95
- = \OT1/ppl/m/n/10.95 (-20) 0, 90$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 a
-ds_viewed_per_day $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10
-.95 (-20) 0, 89$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 time_on_explore_per
-_day
+\T1/pcr/m/n/10.95 dms_sent_per_week $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 (-20) 0, 90$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 ads_viewed_per_day $\OML/zplm/m/it/10.95 r \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 (-20) 0, 89$\T1/ppl/m/n/10.95 (-20) , \T1/pcr/m/n/10.95 time_on_explore_per_day
  []
 
 
@@ -2082,28 +1676,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [22 <./clustering/images/fig03_heatmap_correlazione_19_feature.png>]
-<clustering/images/fig04_correlazione_7_feature_core.png, id=633, 1093.686pt x 
-389.65575pt>
-File: clustering/images/fig04_correlazione_7_feature_core.png Graphic file (typ
-e png)
+<clustering/images/fig04_correlazione_7_feature_core.png, id=633, 1093.686pt x 389.65575pt>
+File: clustering/images/fig04_correlazione_7_feature_core.png Graphic file (type png)
 <use clustering/images/fig04_correlazione_7_feature_core.png>
-Package pdftex.def Info: clustering/images/fig04_correlazione_7_feature_core.pn
-g  used on input line 165.
+Package pdftex.def Info: clustering/images/fig04_correlazione_7_feature_core.png  used on input line 165.
 (pdftex.def)             Requested size: 441.01775pt x 157.12596pt.
 
 Overfull \hbox (85.38795pt too wide) in paragraph at lines 176--177
-[]\T1/ppl/m/n/10.95 (-20) Le 7 fea-tu-re se-le-zio-na-te ope-ra-no su sca-le nu
--me-ri-che in-com-pa-ti-bi-li (\T1/pcr/m/n/10.95 daily_active_minutes_instagram
-
+[]\T1/ppl/m/n/10.95 (-20) Le 7 fea-tu-re se-le-zio-na-te ope-ra-no su sca-le nu-me-ri-che in-com-pa-ti-bi-li (\T1/pcr/m/n/10.95 daily_active_minutes_instagram
  []
 
-<clustering/images/fig05_pca_screeplot_comunalita.png, id=634, 1137.65025pt x 3
-89.65575pt>
-File: clustering/images/fig05_pca_screeplot_comunalita.png Graphic file (type p
-ng)
+<clustering/images/fig05_pca_screeplot_comunalita.png, id=634, 1137.65025pt x 389.65575pt>
+File: clustering/images/fig05_pca_screeplot_comunalita.png Graphic file (type png)
 <use clustering/images/fig05_pca_screeplot_comunalita.png>
-Package pdftex.def Info: clustering/images/fig05_pca_screeplot_comunalita.png  
-used on input line 185.
+Package pdftex.def Info: clustering/images/fig05_pca_screeplot_comunalita.png  used on input line 185.
 (pdftex.def)             Requested size: 441.01775pt x 151.05544pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2114,18 +1700,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [23 <./clustering/images/fig04_correlazione_7_feature_core.png>]
 Overfull \hbox (25.05957pt too wide) in paragraph at lines 213--214
-[]\T1/ppl/m/n/10.95 (-20) Con $\OML/zplm/m/it/10.95 k \OT1/zplm/m/n/10.95 = \OT
-1/ppl/m/n/10.95 (-20) 3$ \T1/ppl/b/n/10.95 (-20) com-po-nen-ti \T1/ppl/m/n/10.9
-5 (-20) ($\OT1/ppl/m/n/10.95 (-20) 77, 98%$ \T1/ppl/m/n/10.95 (-20) di va-rian-
-za glo-ba-le), la fea-tu-re \T1/pcr/m/n/10.95 posts_created_per_week
+[]\T1/ppl/m/n/10.95 (-20) Con $\OML/zplm/m/it/10.95 k \OT1/zplm/m/n/10.95 = \OT1/ppl/m/n/10.95 (-20) 3$ \T1/ppl/b/n/10.95 (-20) com-po-nen-ti \T1/ppl/m/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 77, 98%$ \T1/ppl/m/n/10.95 (-20) di va-rian-za glo-ba-le), la fea-tu-re \T1/pcr/m/n/10.95 posts_created_per_week
  []
 
 <clustering/images/fig06_pca_loadings_5pc.png, id=650, 705.23476pt x 368.577pt>
-
 File: clustering/images/fig06_pca_loadings_5pc.png Graphic file (type png)
 <use clustering/images/fig06_pca_loadings_5pc.png>
-Package pdftex.def Info: clustering/images/fig06_pca_loadings_5pc.png  used on 
-input line 219.
+Package pdftex.def Info: clustering/images/fig06_pca_loadings_5pc.png  used on input line 219.
 (pdftex.def)             Requested size: 361.63777pt x 189.00659pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2141,33 +1722,22 @@ Overfull \hbox (144.97328pt too wide) in paragraph at lines 228--241
 
 
 Overfull \hbox (27.74113pt too wide) in paragraph at lines 245--246
-\T1/ppl/m/n/10.95 (-20) po-si-ti-vi su \T1/pcr/m/n/10.95 daily_active_minutes_i
-nstagram \T1/ppl/m/n/10.95 (-20) ($\OT1/zplm/m/n/10.95 +\OT1/ppl/m/n/10.95 (-20
-) 0, 547$\T1/ppl/m/n/10.95 (-20) ), \T1/pcr/m/n/10.95 perceived_stress_score
+\T1/ppl/m/n/10.95 (-20) po-si-ti-vi su \T1/pcr/m/n/10.95 daily_active_minutes_instagram \T1/ppl/m/n/10.95 (-20) ($\OT1/zplm/m/n/10.95 +\OT1/ppl/m/n/10.95 (-20) 0, 547$\T1/ppl/m/n/10.95 (-20) ), \T1/pcr/m/n/10.95 perceived_stress_score
  []
 
 
 Overfull \hbox (61.87604pt too wide) in paragraph at lines 247--248
-[]\T1/pcr/b/n/10.95 PC3 \T1/ppl/b/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 14, 
-63%$\T1/ppl/b/n/10.95 (-20) ) --- \T1/ppl/b/it/10.95 (-20) As-se del Be-nes-se-
-re Emo-ti-vo e Re-si-lien-za\T1/ppl/b/n/10.95 (-20) : \T1/ppl/m/n/10.95 (-20) g
-ui-da-ta da \T1/pcr/m/n/10.95 self_reported_happiness
+[]\T1/pcr/b/n/10.95 PC3 \T1/ppl/b/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 14, 63%$\T1/ppl/b/n/10.95 (-20) ) --- \T1/ppl/b/it/10.95 (-20) As-se del Be-nes-se-re Emo-ti-vo e Re-si-lien-za\T1/ppl/b/n/10.95 (-20) : \T1/ppl/m/n/10.95 (-20) gui-da-ta da \T1/pcr/m/n/10.95 self_reported_happiness
  []
 
 
 Overfull \hbox (26.72423pt too wide) in paragraph at lines 248--249
-[]\T1/pcr/b/n/10.95 PC4 \T1/ppl/b/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 12, 
-03%$\T1/ppl/b/n/10.95 (-20) ) --- \T1/ppl/b/it/10.95 (-20) As-se del Con-tent C
-rea-tor At-ti-vo\T1/ppl/b/n/10.95 (-20) : \T1/ppl/m/n/10.95 (-20) do-mi-na-ta d
-a \T1/pcr/m/n/10.95 posts_created_per_week
+[]\T1/pcr/b/n/10.95 PC4 \T1/ppl/b/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 12, 03%$\T1/ppl/b/n/10.95 (-20) ) --- \T1/ppl/b/it/10.95 (-20) As-se del Con-tent Crea-tor At-ti-vo\T1/ppl/b/n/10.95 (-20) : \T1/ppl/m/n/10.95 (-20) do-mi-na-ta da \T1/pcr/m/n/10.95 posts_created_per_week
  []
 
 
 Overfull \hbox (51.99005pt too wide) in paragraph at lines 249--250
-[]\T1/pcr/b/n/10.95 PC5 \T1/ppl/b/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 7, 6
-4%$\T1/ppl/b/n/10.95 (-20) ) --- \T1/ppl/b/it/10.95 (-20) As-se del-l'En-ga-ge-
-ment Qua-li-ta-ti-vo Pu-ro\T1/ppl/b/n/10.95 (-20) : \T1/ppl/m/n/10.95 (-20) do-
-mi-na-ta da \T1/pcr/m/n/10.95 user_engagement_score
+[]\T1/pcr/b/n/10.95 PC5 \T1/ppl/b/n/10.95 (-20) ($\OT1/ppl/m/n/10.95 (-20) 7, 64%$\T1/ppl/b/n/10.95 (-20) ) --- \T1/ppl/b/it/10.95 (-20) As-se del-l'En-ga-ge-ment Qua-li-ta-ti-vo Pu-ro\T1/ppl/b/n/10.95 (-20) : \T1/ppl/m/n/10.95 (-20) do-mi-na-ta da \T1/pcr/m/n/10.95 user_engagement_score
  []
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -2190,13 +1760,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [25 <./clustering/images/fig06_pca_loadings_5pc.png>]
-<clustering/images/fig07_kmeans_elbow_wcss_silhouette.png, id=666, 1293.03075pt
- x 360.74776pt>
-File: clustering/images/fig07_kmeans_elbow_wcss_silhouette.png Graphic file (ty
-pe png)
+<clustering/images/fig07_kmeans_elbow_wcss_silhouette.png, id=666, 1293.03075pt x 360.74776pt>
+File: clustering/images/fig07_kmeans_elbow_wcss_silhouette.png Graphic file (type png)
 <use clustering/images/fig07_kmeans_elbow_wcss_silhouette.png>
-Package pdftex.def Info: clustering/images/fig07_kmeans_elbow_wcss_silhouette.p
-ng  used on input line 262.
+Package pdftex.def Info: clustering/images/fig07_kmeans_elbow_wcss_silhouette.png  used on input line 262.
 (pdftex.def)             Requested size: 441.01775pt x 123.04343pt.
 
 
@@ -2207,12 +1774,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 288.
 
-<clustering/images/fig08_kmeans_2d_3d_lda.png, id=669, 1293.633pt x 430.60875pt
->
+<clustering/images/fig08_kmeans_2d_3d_lda.png, id=669, 1293.633pt x 430.60875pt>
 File: clustering/images/fig08_kmeans_2d_3d_lda.png Graphic file (type png)
 <use clustering/images/fig08_kmeans_2d_3d_lda.png>
-Package pdftex.def Info: clustering/images/fig08_kmeans_2d_3d_lda.png  used on 
-input line 293.
+Package pdftex.def Info: clustering/images/fig08_kmeans_2d_3d_lda.png  used on input line 293.
 (pdftex.def)             Requested size: 441.01775pt x 146.79926pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2230,13 +1795,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 298.
 
-<clustering/images/fig09_kmeans_profilazione_heatmap_radar.png, id=675, 1287.61
-05pt x 434.8245pt>
-File: clustering/images/fig09_kmeans_profilazione_heatmap_radar.png Graphic fil
-e (type png)
+<clustering/images/fig09_kmeans_profilazione_heatmap_radar.png, id=675, 1287.6105pt x 434.8245pt>
+File: clustering/images/fig09_kmeans_profilazione_heatmap_radar.png Graphic file (type png)
 <use clustering/images/fig09_kmeans_profilazione_heatmap_radar.png>
-Package pdftex.def Info: clustering/images/fig09_kmeans_profilazione_heatmap_ra
-dar.png  used on input line 303.
+Package pdftex.def Info: clustering/images/fig09_kmeans_profilazione_heatmap_radar.png  used on input line 303.
 (pdftex.def)             Requested size: 441.01775pt x 148.92648pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2245,8 +1807,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[27 <./clustering/images/fig08_kmeans_2d_3d_lda.png> <./clustering/images/fig09
-_kmeans_profilazione_heatmap_radar.png>]
+[27 <./clustering/images/fig08_kmeans_2d_3d_lda.png> <./clustering/images/fig09_kmeans_profilazione_heatmap_radar.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 332.
@@ -2255,13 +1816,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 332.
 
-<clustering/images/fig10_kmeans_silhouette_knife_crosstab.png, id=685, 1148.490
-75pt x 368.577pt>
-File: clustering/images/fig10_kmeans_silhouette_knife_crosstab.png Graphic file
- (type png)
+<clustering/images/fig10_kmeans_silhouette_knife_crosstab.png, id=685, 1148.49075pt x 368.577pt>
+File: clustering/images/fig10_kmeans_silhouette_knife_crosstab.png Graphic file (type png)
 <use clustering/images/fig10_kmeans_silhouette_knife_crosstab.png>
-Package pdftex.def Info: clustering/images/fig10_kmeans_silhouette_knife_crosst
-ab.png  used on input line 337.
+Package pdftex.def Info: clustering/images/fig10_kmeans_silhouette_knife_crosstab.png  used on input line 337.
 (pdftex.def)             Requested size: 441.01775pt x 141.5342pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2283,13 +1841,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 365.
 
-<clustering/images/fig11_dbscan_kdistance_gridsearch.png, id=686, 1280.98575pt 
-x 375.804pt>
-File: clustering/images/fig11_dbscan_kdistance_gridsearch.png Graphic file (typ
-e png)
+<clustering/images/fig11_dbscan_kdistance_gridsearch.png, id=686, 1280.98575pt x 375.804pt>
+File: clustering/images/fig11_dbscan_kdistance_gridsearch.png Graphic file (type png)
 <use clustering/images/fig11_dbscan_kdistance_gridsearch.png>
-Package pdftex.def Info: clustering/images/fig11_dbscan_kdistance_gridsearch.pn
-g  used on input line 370.
+Package pdftex.def Info: clustering/images/fig11_dbscan_kdistance_gridsearch.png  used on input line 370.
 (pdftex.def)             Requested size: 441.01775pt x 129.38301pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2299,19 +1854,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [28 <./clustering/images/fig10_kmeans_silhouette_knife_crosstab.png>]
-<clustering/images/fig12_dbscan_2d_3d_outliers.png, id=696, 1293.633pt x 412.54
-124pt>
+<clustering/images/fig12_dbscan_2d_3d_outliers.png, id=696, 1293.633pt x 412.54124pt>
 File: clustering/images/fig12_dbscan_2d_3d_outliers.png Graphic file (type png)
-
 <use clustering/images/fig12_dbscan_2d_3d_outliers.png>
-Package pdftex.def Info: clustering/images/fig12_dbscan_2d_3d_outliers.png  use
-d on input line 384.
+Package pdftex.def Info: clustering/images/fig12_dbscan_2d_3d_outliers.png  used on input line 384.
 (pdftex.def)             Requested size: 441.01775pt x 140.63985pt.
 
 Underfull \hbox (badness 3657) in paragraph at lines 391--391
-[][]|\T1/ppl/m/n/10 (+20) Pro-fi-la-zio-ne dei Clu-ster e de-gli Ou-tlier (\T1/
-pcr/m/n/10 -1\T1/ppl/m/n/10 (+20) ) in-di-vi-dua-ti da DB-SCAN ($\OML/zplm/m/it
-/10 " \OT1/zplm/m/n/10 =
+[][]|\T1/ppl/m/n/10 (+20) Pro-fi-la-zio-ne dei Clu-ster e de-gli Ou-tlier (\T1/pcr/m/n/10 -1\T1/ppl/m/n/10 (+20) ) in-di-vi-dua-ti da DB-SCAN ($\OML/zplm/m/it/10 " \OT1/zplm/m/n/10 =
  []
 
 
@@ -2321,19 +1871,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[29 <./clustering/images/fig11_dbscan_kdistance_gridsearch.png> <./clustering/i
-mages/fig12_dbscan_2d_3d_outliers.png>]
-<clustering/images/fig13_hdbscan_eom_vs_leaf.png, id=703, 1293.633pt x 412.5412
-4pt>
+[29 <./clustering/images/fig11_dbscan_kdistance_gridsearch.png> <./clustering/images/fig12_dbscan_2d_3d_outliers.png>]
+<clustering/images/fig13_hdbscan_eom_vs_leaf.png, id=703, 1293.633pt x 412.54124pt>
 File: clustering/images/fig13_hdbscan_eom_vs_leaf.png Graphic file (type png)
 <use clustering/images/fig13_hdbscan_eom_vs_leaf.png>
-Package pdftex.def Info: clustering/images/fig13_hdbscan_eom_vs_leaf.png  used 
-on input line 421.
+Package pdftex.def Info: clustering/images/fig13_hdbscan_eom_vs_leaf.png  used on input line 421.
 (pdftex.def)             Requested size: 441.01775pt x 140.63985pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 428--428
-[][]|\T1/ppl/m/n/10 (+20) Pro-fi-la-zio-ne di HDB-SCAN con me-to-do \T1/pcr/m/n
-/10 EOM \T1/ppl/m/n/10 (+20) (\T1/pcr/m/n/10 min_cluster_size=100,
+[][]|\T1/ppl/m/n/10 (+20) Pro-fi-la-zio-ne di HDB-SCAN con me-to-do \T1/pcr/m/n/10 EOM \T1/ppl/m/n/10 (+20) (\T1/pcr/m/n/10 min_cluster_size=100,
  []
 
 
@@ -2360,8 +1906,7 @@ Underfull \hbox (badness 6575) in paragraph at lines 481--481
 
 
 Underfull \hbox (badness 5533) in paragraph at lines 481--481
-[]|\T1/ppl/b/n/10.95 (+20) 0,6061 \T1/ppl/m/n/10.95 (+20) (\T1/pcr/m/n/10.95 EO
-M\T1/ppl/m/n/10.95 (+20) ) / \T1/ppl/b/n/10.95 (+20) 0,4512
+[]|\T1/ppl/b/n/10.95 (+20) 0,6061 \T1/ppl/m/n/10.95 (+20) (\T1/pcr/m/n/10.95 EOM\T1/ppl/m/n/10.95 (+20) ) / \T1/ppl/b/n/10.95 (+20) 0,4512
  []
 
 
@@ -2376,8 +1921,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 481--481
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 481--481
-\T1/ppl/m/n/10.95 (+20) iso-la-ti: \T1/ppl/m/it/10.95 (+20) Crea-tor \T1/ppl/m/
-n/10.95 (+20) iper-
+\T1/ppl/m/n/10.95 (+20) iso-la-ti: \T1/ppl/m/it/10.95 (+20) Crea-tor \T1/ppl/m/n/10.95 (+20) iper-
  []
 
 
@@ -2392,8 +1936,7 @@ Underfull \hbox (badness 1983) in paragraph at lines 481--481
 
 
 Underfull \hbox (badness 2689) in paragraph at lines 481--481
-\T1/ppl/m/n/10.95 (+20) chia \T1/ppl/m/it/10.95 (+20) Di-gi-tal De-tox \T1/ppl/
-m/n/10.95 (+20) e il
+\T1/ppl/m/n/10.95 (+20) chia \T1/ppl/m/it/10.95 (+20) Di-gi-tal De-tox \T1/ppl/m/n/10.95 (+20) e il
  []
 
 )
@@ -2461,10 +2004,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \tf@brf=\write13
 \openout13 = `main.brf'.
 
-LaTeX Encoding Info:    Ignoring declaration for text command \guillemotleft (e
-ncoding OT1) on input line 2.
-LaTeX Encoding Info:    Ignoring declaration for text command \guillemotright (
-encoding OT1) on input line 4.
+LaTeX Encoding Info:    Ignoring declaration for text command \guillemotleft (encoding OT1) on input line 2.
+LaTeX Encoding Info:    Ignoring declaration for text command \guillemotright (encoding OT1) on input line 4.
  [38
 
 
@@ -2490,8 +2031,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [40]
 Underfull \hbox (badness 1728) in paragraph at lines 319--319
-[]\T1/ppl/m/sc/10.95 (+20) VDI \T1/ppl/m/n/10.95 (+20) (2001b), ^^SVDI 4640 Bla
-tt 3, Uti-li-za-tion of the sub-sur-fa-ce for ther-mal pur-po-
+[]\T1/ppl/m/sc/10.95 (+20) VDI \T1/ppl/m/n/10.95 (+20) (2001b), ^^SVDI 4640 Blatt 3, Uti-li-za-tion of the sub-sur-fa-ce for ther-mal pur-po-
  []
 
 
@@ -2539,11 +2079,7 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-(main.aux (frontmatter/frontispiece.aux) (frontmatter/credits.aux)
-(frontmatter/abstract.aux) (introduction/introduction.aux)
-(classificazione/classificazione.aux) (clustering/clustering.aux)
-(serie_temporali/serie_temporali.aux) (backmatter/bibliography.aux)
-(sitography/sitography.aux) (acknowledgements/acknowledgements.aux))
+(main.aux (frontmatter/frontispiece.aux) (frontmatter/credits.aux) (frontmatter/abstract.aux) (introduction/introduction.aux) (classificazione/classificazione.aux) (clustering/clustering.aux) (serie_temporali/serie_temporali.aux) (backmatter/bibliography.aux) (sitography/sitography.aux) (acknowledgements/acknowledgements.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -2554,44 +2090,21 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: BC1FA59731ECE849065FB2D22023343F;16629.
-
-Package rerunfilecheck Warning: File `main.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `main.brf':
-(rerunfilecheck)             Before: E5165E321E531E271EC5138160210C2A;288
-(rerunfilecheck)             After:  81C6B90D5311BB9B458947F15BCDA410;289.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: 81C6B90D5311BB9B458947F15BCDA410;289.
  ) 
 Here is how much of TeX's memory you used:
- 39623 strings out of 467871
- 781192 string characters out of 5418376
+ 39625 strings out of 467871
+ 781392 string characters out of 5418376
  1260643 words of memory out of 5000000
  66612 multiletter control sequences out of 15000+600000
  766378 words of font info for 769 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,16n,139p,2508b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\fraiu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1095.pk><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/fraiu/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/fraiu/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/fraiu/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/fraiu/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/fraiu/
-AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/fra
-iu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/
-fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Use
-rs/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/
-Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb>
-<C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.p
-fb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8
-a.pfb><C:/Users/fraiu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/up
-lri8a.pfb>
-Output written on main.pdf (54 pages, 3874068 bytes).
+ 111i,16n,139p,2608b,734s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\franc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrro8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/franc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (54 pages, 3874252 bytes).
 PDF statistics:
- 1011 PDF objects out of 1200 (max. 8388607)
+ 1012 PDF objects out of 1200 (max. 8388607)
  248 named destinations out of 1000 (max. 500000)
  166465 words of extra memory for PDF output out of 184870 (max. 10000000)
 
